@@ -1,0 +1,258 @@
+h1 {
+    color: #7D4899;
+    font-size: 3rem;
+}
+
+h2, h3, span, #intro address, #intro address a{
+    color: #3A144D;
+}
+
+h2 {
+    font-weight: normal;
+    margin: 0;
+}
+
+h3 {
+    margin-bottom: 0.2rem;
+    font-size: 1.3rem;
+}
+
+h5 {
+    font-weight: lighter;
+    color: #3A144D;
+    margin-top: 0;
+    margin-bottom: 0.2rem;
+}
+
+p {
+    color: #7E459B;
+    text-align: justify;
+}
+
+ul li{
+    color: #7E459B;
+}
+
+address a {
+    color: white;
+}
+
+.background-DEBBDD {
+    background-color: #DEBBDD;
+    width: 100%;
+    padding: 0.2rem 1rem;
+}
+
+/* #region header */
+header {
+    background-color: #7D4899;
+    min-height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 0 1 auto;
+    padding: 1vh;
+}
+.arrow-back {
+    position: absolute;
+    left: 1.5%;
+    top: 2.5%;
+}
+.arrow-back img {
+    max-height: 5vh;
+    max-width: 10vw;
+}
+.header-logo {
+    max-height: 8vh;
+    max-width: 60vw;
+}
+/* #endregion */
+
+/* #region main */
+main {   
+    margin: 5vh 5vw;
+}
+.work, .study, .interest, .skill {
+    max-width: 100%;
+}
+.section-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 10vh;
+    padding: 2vh 0;
+}
+.section-icon img{
+    max-height: 10vh;
+}
+@media(min-width: 768px){
+    main {   
+        display: -ms-grid;
+        display: grid;
+        -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas:"intro intro"
+        "about about"
+        "works studies"
+        "interests skills";
+        grid-column-gap: 5vw;
+        grid-row-gap: 5vh;
+        margin: 5vh 5vw;
+    }
+    .section-icon {
+        padding: 0 0 5vh 0;
+        min-height: 15vh;
+    }
+    .section-icon img{
+        max-height: 15vh;
+    }
+}
+
+/* #region intro */
+#intro {
+    -ms-grid-row: 1; 
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 2;
+    grid-area: intro;
+}
+.profile-img {
+    border-radius: 50%;
+    max-width: 80vw;
+}
+#intro address {
+    margin: auto;
+    font-size: 1rem;
+    min-width: 18vw;
+}
+#intro address ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+#intro address li{
+    display: flex;
+    align-items: center;
+    padding: 0.2rem 0;
+}
+#intro address img{
+    max-height: 2rem;
+    margin-right: 0.2rem;
+}
+@media(min-width:768px) {
+    #intro {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: "info address";
+    }
+    .profile-img {
+        grid-area: img;
+        max-width: 30vw;
+    }
+    #intro > div {
+        grid-area: info;
+    }
+    #intro address {
+        grid-area: address;
+    }
+}
+@media(min-width:1024px) {
+    #intro {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .profile-img {
+        max-width: 20vw;
+    }
+    #intro > div {
+        max-width: 50vw;
+    }
+}
+/* #endregion */
+
+/* #region about */
+#about {
+    -ms-grid-row: 2; 
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 2;
+    grid-area: about;
+}
+/* #endregion */
+
+/* #region works */
+#works {
+    -ms-grid-row: 3; 
+    -ms-grid-column: 1;
+    grid-area: works;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+/* #endregion */
+
+/* #region studies */
+#studies {
+    -ms-grid-row: 3; 
+    -ms-grid-column: 2;
+    grid-area: studies;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+/* #endregion */
+
+/* #region interests */
+#interests {
+    -ms-grid-row: 4; 
+    -ms-grid-column: 1;
+    grid-area: interests;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+/* #endregion */
+
+/* #region skills */
+#skills {
+    -ms-grid-row: 4; 
+    -ms-grid-column: 2;
+    grid-area: skills;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+#skills-list {
+    background-color: #EAD6E9;
+    min-height: calc(50% - 20vh);
+    width: 100%;
+    padding: 1vh 2vw;
+}
+#skills h2{
+    font-weight: bold;
+    margin-bottom: 5vh;
+}
+.points, .skill {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.point {
+    border: 1px solid #7E459B;
+    border-radius: 50%;
+    height: 0.5rem;
+    width: 0.5rem;
+    margin-left: 0.5rem;
+}
+.has-point {
+    background-color: #7E459B;
+}
+/* #endregion */
+footer{
+    min-height: 10vh;
+}
+
+/* #endregion */

@@ -1,0 +1,139 @@
+{
+  "nome_completo": "Audry Rose Mattos Ávalos Ibragimova",
+  "o_que_eu_quero": "Busco uma vaga como desenvolvedora back-end que esteja alinhada aos meus valores e compromissos sociais, que me permita ampliar habilidades técnicas, gerenciais e interpessoais.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/audryavalos/",
+  "link_github": "https://github.com/Audry-prog",
+  "email": "audryavalos@hotmail.com",
+  "um_pouco_sobre_mim": [
+    "Apaixonada por tecnologia, desenvolvimento web e movimentos _'Open Source'_. Acredito no eterno aprendizado e que somos protoganistas de nossas histórias.",
+    "Minha trajetória profissional inicia-se na área de vendas e impulsionamento de produtos, passando para a área de Call Centers, onde desenvolvi habilidades de negociação, empatia para escutar o cliente e capacidade investigativa para descobrir suas necessidades, até a busca por soluções de negócios. Atualmente em transição de carreira para a área tecnológica, mais especificamente em Desenvolvimento Web Back-end.",
+    "Gosto de novos desafios e de me doar para executar um projeto em sua excelência, principalmente quando há contribuição social.",
+    "E, nos momentos de descanso, gosto de viajar, cozinhar e ler. Já morei 7 anos em Sevilla, na Espanha."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Gestor da Informação",
+      "empresa": "Tribunal Regional Eleitoral de Pernambuco - TRE",
+      "periodo": "Fev/2019 a Maio/2020",
+      "atividades_desenvolvidas": "Atuei no Setor de Legislação, Jurisprudência e Gestão Documental, minhas responsabilidades abrangiam: selecionar, compilar, anexar, catalogar por assunto e temática, indexar, linkar e publicar as normas eleitorais publicadas no Diário de Justiça Eletrônico do Tribunal Superior Eleitoral através dos Sistemas SEI, SADP, PJe, LEGIS e PUBLICANET.",
+      "link": "https://www.tre-pe.jus.br/"
+    },
+    {
+      "cargo_funcao": "Analista de Processos",
+      "empresa": "Pró-Reitoria de Comunicação, Informação e Tecnologia da Informação - PROCIT/UFPE",
+      "periodo": "Out/2018 a Set/2019",
+      "atividades_desenvolvidas": "Atuei no Escritório de Processos em concomitância com o setor de Governança de TI da PROCIT/UFPE. Minhas responsabilidades abrangiam o estudo, análise e elaboração de políticas, normas e processos relacionados ao Plano Estratégico de Comunicação, Informação, Tecnologia da Informação e Segurança da Informação da UFPE. Dentre as atividades realizadas estavam: Mapeamento e Modelagem BPMN dos Processos de Negócios; Análise e Melhoria de Processos e Análise de Aderência dos Sistemas SIGAA e SIGRH aos processos da UFPE; Avaliação de Interação Humano-Sistema; Teste de Sistema, Implantação de Sistema e Treinamento de Sistema.",
+      "link": "https://www.ufpe.br/procit"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Git e Github na Vida Real",
+      "instituicao": "Udemy",
+      "periodo": "Set/2020",
+      "resumo_conhecimentos_aprendidos": "Comandos avançados do Git para versionar e controlar versões do Github; Resolução de conflitos no Git, comprensão aprofundada sobre Pull Request, Issues, Templates, Code Review; Histórico de Logs; Workflows de trabalho do Git, indo desde o Centralized Workflow até Git Flow."
+    },
+    {
+      "curso": "Lógica de Programação",
+      "instituicao": "Fuctura Tecnologia",
+      "periodo": "Set/2020 a Out/2020",
+      "resumo_conhecimentos_aprendidos": "Definição e Desenvolvimento de algoritmos; Pseudocódigos; Diagrama de Blocos; Tipos de Variáveis; Operadores Lógicos, Relacionais e Aritméticos; Estruturas Condicionais; Estruturas de Repetição; Vetores e Matrizes."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "LGPD",
+      "instituicao": "TIExames",
+      "resumo_conhecimentos_interesses": "Fundamentos e Regulamentação de Privacidade e Proteção de Dados; Práticas de Proteção de Dados; Agentes de Tratamento de Dados e suas responsabilidades; Transferência Internacional de Dados. "
+    },
+    {
+      "interesse_evento_curso": "Fundamentos do Azure",
+      "instituicao": "Digital Innovation One Inc.",
+      "resumo_conhecimentos_interesses": "Ferramentas de computação em nuvem da Microsoft e os principais serviços do Azure; Como criar uma conta no Azure; Otimização de projetos com as ferramentas disponíveis e entender o que cada serviço pode te oferecer ao longo do desenvolvimento de soluções em cloud."
+    },
+    {
+      "interesse_evento_curso": "Primeiros Passos em Desenvolvimento Front-end",
+      "instituicao": "WoMakersCode",
+      "resumo_conhecimentos_interesses": "Básico sobre Git & Github, HTML5, CSS3, Responsividade, Lógica de Programação e Fundamentos de JavaScript."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML5",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "CSS3",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE.JS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PYTHON",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "BIZAGE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "POWER BI",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "POSTGRESQL",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "QLIK SENSE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "POSTMAN API",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "RAPDMINER STUDIO",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PORTUGOL STUDIO",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "DOM",
+      "pontuacao": 7
+    }
+  ]
+}

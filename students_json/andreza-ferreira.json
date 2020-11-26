@@ -1,0 +1,84 @@
+{
+    "nome_completo": "Andreza Ferreira Santana dos Santos",
+    "o_que_eu_quero": "Ingressar na área de tecnologia com foco em desenvolvimento back-end",
+    "cidade_estado:": "Recife/PE",
+    "link_linkedin": "www.linkedin.com/in/andreza-ferreira-89a33a51",
+    "link_github": "https://github.com/andrezafss",
+    "email": "dezaf.ferreira@gmail.com",
+    "um_pouco_sobre_mim": [
+      "Me considero uma pessoa proativa, dedicada e dona de uma força de vontade incrível que me encoraja a buscar novos desafios.",
+      "Sou licenciada e computação, durante o curso fui estagiária de gerenciamento de projetos em uma empresa de tecnologia. Após a formação acadêmica ingressei na área de educação como professora de informática educacional. Comecei a estudar java, javascript, node.js e banco de dados em busca de uma colocação na área de tecnologia.",
+    ],
+    "no_que_ja_trabalhei": [
+      {
+        "cargo_funcao": "Professora de Informática Educacional",
+        "empresa": "Colégio Dourado",
+        "periodo": "Set/2017 até o presente momento",
+        "atividades_desenvolvidas": "Elaborar e aplicar aulas lúdicas, pesquisar e utilizar jogos educativos, utilizar ferramentas tecnológicas com outras disciplinas."
+      },
+      {
+        "cargo_funcao": "Estagiária PMO",
+        "empresa": "Agfa Healthcare",
+        "periodo": "Dez/201e a Jul/2013",
+        "atividades_desenvolvidas": "Desenvolver relatórios de estimativa de custo, elaborar relatórios de estimativa de tempo. "
+      }
+    ],
+    "o_que_ja_estudei": [
+      {
+            "curso": "Bootcamp Back-End",
+            "instituicao": "Reprograma",
+            "periodo": "Ago/2020 a Dez/2020",
+            "resumo_conhecimentos_aprendidos": "Desenvolvimento JavaScript, NodeJs, MongoDB e conteúdos"
+      },
+      {
+        "curso": "Licenciatura em Computação",
+        "instituicao": "Universidade Federal Rural de Pernambuco(UFRPE)",
+        "periodo": "Mar/2009 a Jul/2016",
+        "resumo_conhecimentos_aprendidos": "Didática pedagógica, diversas tecnologias e conteúdos"
+      },
+      {
+        "curso": "Técnico em Eletrotécnica",
+        "instituicao": "Instituto Federal de Pernambuco(IFPE)",
+        "periodo": "Mar/2004 a Dez/2007",
+        "resumo_conhecimentos_aprendidos": "Eletricidade, planejamento e conteúdos"
+      }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "Academia Java",
+        "instituicao": "Fuctura Tecnologia",
+        "resumo_conhecimentos_interesses": "Entendimento do básico ao avançado do java"
+      }
+    ],
+    "no_que_me_destaco": [
+      {
+        "habilidade_ferramenta": "JAVA",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "MYSQL",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "MONGODB",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "JAVASCRIPT",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "NODE",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+        "pontuacao": 7
+      }
+    ]
+  }
+  

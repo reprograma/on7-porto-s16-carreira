@@ -1,72 +1,73 @@
 {
     "nome_completo": "Talita Daniele Lins Fraga",
-    "o_que_eu_quero": "Procuro uma oportunidade de crescer como desenvolverdora e melhorar minhas capacidades técnicas. Utilizar esses conhecimentos para melhorar a vida do usuário usando tecnologia. ",
+    "o_que_eu_quero": "Procuro uma oportunidade como desenvolvedora back-end, quero crescer como desenvolverdora e melhorar minhas capacidades técnicas. Utilizar esses conhecimentos para melhorar a vida do usuário usando tecnologia.",
     "cidade_estado:": "Recife/PE",
     "link_linkedin": "https://www.linkedin.com/in/talita-fraga-1638781aa/",
     "link_github": "https://github.com/TalitaFraga",
     "email": "talitad.fraga@gmail.com",
     "um_pouco_sobre_mim": [
-      "Sou uma pessoa bastante persistente nos meus sonhos e comprometida com os objetivos. ",
-      "Sou formada em Licenciatura em música. Estou estudando programação há 1 ano, pesquisando na internet, fazendo bootcamp e participando de maratona. Sou aluna concluinte da turma de Back-end da Reprograma. ",
-      "Gosto de aprender coisas novas, entrar em desafios e usar minhas habilidades em prol da comunidade"
+    "Sou uma pessoa bastante persistente nos meus sonhos e comprometida com os objetivos. ",
+    "Sou formada em Licenciatura em música. Estou estudando programação há 1 ano, pesquisando na internet, fazendo bootcamp e participando de maratona. Sou aluna concluinte da turma de Back-end da Reprograma. ",
+    "Gosto de aprender coisas novas, entrar em desafios e usar minhas habilidades em prol da comunidade"
     ],
 
     "no_que_ja_trabalhei": [
-      {
+    {
         "cargo_funcao": "Professora de Música",
         "empresa": "BL Music",
         "periodo": "Jun/2019 - Atual",
         "atividades_desenvolvidas": "Aulas de piano, teclado e iniciação musical para todas as idades.",
         "link": null
-      }
+    }
 
     ],
     "o_que_ja_estudei": [
-      {
+    {
+            "curso": "Curso de Back-end",
+            "instituicao": "Reprograma",
+            "periodo": "Ago/2020 a Dez/2020",
+            "resumo_conhecimentos_aprendidos": "Banco de dados, lógica de programação, versionamento de código, metodos HTTP"
+    },
+    {
         "curso": "Musica - Licenciatura",
         "instituicao": "Universidade Federal de Pernambuco - UFPE",
         "periodo": "Dez/2012 a Jul/2017",
         "resumo_conhecimentos_aprendidos": "Educação musical, regência de orquestra e iniciação musical."
-      },
-      {
-        "curso": "Curso de Back-end",
-        "instituicao": "Reprograma",
-        "periodo": "Ago/2020 a Dez/2020",
-        "resumo_conhecimentos_aprendidos": "Banco de dados, lógica de programação, versionamento de código, metodos HTTP"
-      }
+    }
+    
     ],
     "meus_outros_aprendizados_e_interesses": [
-      {
+    {
         "interesse_evento_curso": "Basic HTML and HTML5",
         "instituicao": "freecodecamp",
         "resumo_conhecimentos_interesses": "Entendimento básico sobre HTML e HTML5"
-      }
+    }
 
     ],
     "no_que_me_destaco": [
-      {
+    {
         "habilidade_ferramenta": "HTML",
         "pontuacao": 5
-      },
-      {
+    },
+    {
         "habilidade_ferramenta": "CSS",
         "pontuacao": 5
-      },
-      {
+    },
+    {
         "habilidade_ferramenta": "MongoDB",
         "pontuacao": 8
-      },
-      {
+    },
+    {
         "habilidade_ferramenta": "JAVASCRIPT",
         "pontuacao": 8
-      },
-      {
+    },
+    {
         "habilidade_ferramenta": "NODE.js",
         "pontuacao": 8
-      },
-      {
+    },
+    {
         "habilidade_ferramenta": "GIT/GITHUB",
         "pontuacao": 8
-      }
+    }
     ]
-  }
+}

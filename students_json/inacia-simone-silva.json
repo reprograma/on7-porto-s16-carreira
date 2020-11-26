@@ -1,0 +1,144 @@
+{
+  "nome_completo": "Inácia Simone da Silva",
+  "o_que_eu_quero": "Desejo poder aprimorar meus conhecimentos na área de back-end; contribuindo,assim, positivamente com o desenvolvimento de projetos da empresa na qual estarei inserida.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/simone-silva-26b1636a/",
+  "link_github": "https://github.com/simonesafira2007",
+  "email": "simone.safira2007@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Considero-me uma pessoa motivada e focada. Meu maior atributo é a determinação em conquistar objetivos e metas.",
+    "Minha trajetória profissional teve início no serviço público na área de Educação. Porém, a computação e as tecnologias sempre foram foco central e de grande interesse.",
+    "Adoro estudar, aprender, colaborar e compartilhar. Estou receptiva a novas possibilidades e descobertas, visando à consolidação de conhecimentos e à resolução de problemas. No tempo livre, gosto de pesquisar, ouvir música e maratonar séries na Netflix.",
+    "Sinto-me entusiasmada com trabalho em equipe e com desenvolvimento de novos projetos."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Professora",
+      "empresa": "Prefeitura do Recife",
+      "periodo": "Maio/1990 até Março/2019",
+      "atividades_desenvolvidas": "Professora na Educação Infantil/ Ensino Fundamental I/ Professora de Tecnologia",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [  
+    {
+      "curso": "Licenciatura Plena em Pedagogia",
+      "instituicao": "UFPE",
+      "periodo": "Janeiro/2016 a Dezembro/2018",
+      "resumo_conhecimentos_aprendidos": "Criação de plano de aulas, planejamentos diversos, definição de  conteúdos, ministrar aulas."
+    },
+    {
+      "curso": "Licenciatura em Computação",
+      "instituicao": "UFRPE",
+      "periodo": "Janeiro/2010 a Dezembro/2012",
+      "resumo_conhecimentos_aprendidos": "Criação de aplicações, ministrar aulas de tecnologia."
+    },
+    {
+      "curso": "Pós-graduação em : Educação a distância e Novas Tecnologias",
+      "instituicao": "FAEL",
+      "periodo": "Agosto/2017 à Dezembro/2017",
+      "resumo_conhecimentos_aprendidos": "Criação de aplicações, ministrar aulas de tecnologia."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso de Programação",
+      "instituicao": "Ifsul",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica de programação"
+    },
+    {
+      "interesse_evento_curso": "Introdução ao Git e GitHub",
+      "instituicao": "Digital Inovation One",
+      "resumo_conhecimentos_interesses": "Entendimento sobre comandos do Git e da plataforma GitHub"
+    },
+    {
+      "interesse_evento_curso": "Lógica de Programação Essencial",
+      "instituicao": "Digital Inovation One",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica de programação"
+    },
+    {
+      "interesse_evento_curso": "Introdução a criação de websites com HTML5 e CSS3",
+      "instituicao": "Digital Inovation One",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica de Html5 e CSS3 "
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML5",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS3",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MONGODB" ,
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "APLICATIVOS DO GOOGLE",
+      "pontuacao": 9 
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS INOVADORAS NA EDUCAÇÃO",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "AMBIENTE VIRTUAL DE APRENDIZAGEM (PLATAFORMA MOODLE)",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "PACOTE OFFICE MICROSOFT",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIAS ASSISTIVAS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "CRIAÇÃO DE WEBSITE COM FERRAMENTA GOOGLE SITES",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "VISUAL STUDIO CODE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "POSTMAN",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE DO GOOGLE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "KAHOOT: PLATAFORMA PARA CRIAÇÃO DE JOGOS DIGITAIS EDUCACIONAIS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "LOOM",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "ANCHOR: PLATAFORMA PARA CRIAÇÃO DE PODCASTS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "ROBOT 3T",
+      "pontuacao": 8
+    }
+      
+  ]
+}

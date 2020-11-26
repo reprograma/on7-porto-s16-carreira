@@ -1,0 +1,78 @@
+{
+    "nome_completo": "Rebeca Regina Soares da Silva",
+    "o_que_eu_quero": "Desejo ser inovadora e bem sucedida na minha área",
+    "cidade_estado:": "Pernambuco/ PE",
+    "link_linkedin": "https://www.linkedin.com/in/rebeca-regina-soares-da-silva-0473101ba",
+    "link_github": "https://github.com/Rebeca-desen",
+    "email": "rebecarss01@gmail.com",
+    "um_pouco_sobre_mim": [
+      "Sou uma pessoa bem extrovertida, me dou bem com quase todo mundo, sou bem eclética, bem determinada quando quero algo, gosto de tomar frente das coisas",
+      "Considero que começou quando entrei numa escola técnica estadual para fazer logística onde percebi que gostava de liderar e organizar as coisas também, 6 meses depois entrei no IFPE para fazer um técnico em eletrônica onde também percebi meu amor pela tecnologia, desde então agarro as oportunidades de aprender mais sobre a área, comecei um estágio num laboratório de pesquisa onde desenvolvia junto com uma equipe um dispositivo de baixo custo que visava ajudar agricultores",
+      "Gosto muito de cantar, aprender coisas novas, aprendendo sobre programação percebi minha paixão por codar"
+    ],
+    "no_que_ja_trabalhei": [
+      {
+        "cargo_funcao": "Técnica eletrônica",
+        "empresa": "IFPE-GPADS",
+        "periodo": "Out/2019 a Out/2020",
+        "atividades_desenvolvidas": "Desenvolvimento de dispositivos eletrônico, concertos eletrônicos e manipulação de impressora 3D",
+        "link": null
+      }
+    ],
+    "o_que_ja_estudei": [
+      {
+        "curso": "Eletrônica",
+        "instituicao": "IFPE",
+        "periodo": "Ago/2017 a Dez/2021",
+        "resumo_conhecimentos_aprendidos": "criação,manutenção e sistemas de circuitos e eletrônicos"
+      },
+      {
+        "curso": "Desenvolvedora Backend",
+        "instituicao": "Reprograma",
+        "periodo": "ago/2020 a dez/2020",
+        "resumo_conhecimentos_aprendidos": "fazer a construção, manutenção, implementação e planejamento dse uma página web"
+      }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "Desenvolvedor de Games",
+        "instituicao": "e-studar",
+        "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do desenvolvimento de games online"
+      },
+      {
+        "interesse_evento_curso": "Robótica",
+        "instituicao": "IFPE",
+        "resumo_conhecimentos_interesses": "Processo de montagem e programação de robôs de lego"
+      }
+    ],
+    "no_que_me_destaco": [
+      {
+        "habilidade_ferramenta": "Arduino",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "JAVASCRIPT",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "NODE",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "Gimp",
+        "pontuacao": 9 
+      },
+      {
+        "habilidade_ferramenta": "Canva",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "C++",
+        "pontuacao": 8
+      }
+    ]
+  }

@@ -51,14 +51,9 @@
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
-    },
-    {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Introdução a criação de websites com HTML5 e CSS3",
+      "instituicao": "Digital Innovation One ",
+      "resumo_conhecimentos_interesses": "História do HTML5 e do CSS3, como funciona a estrutura básica dessas tecnologias, sua semântica, principais elementos e comandos."
     }
   ],
   "no_que_me_destaco": [
@@ -79,12 +74,8 @@
       "pontuacao": 8
     },
     {
-      "habilidade_ferramenta": "REACT",
-      "pontuacao": 8
-    },
-    {
-      "habilidade_ferramenta": "REACT",
-      "pontuacao": 8
+      "habilidade_ferramenta": "LÓGICA DA PROGRAMAÇÃO",
+      "pontuacao": 9
     }
 
   ]

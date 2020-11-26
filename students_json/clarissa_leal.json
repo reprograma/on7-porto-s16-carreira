@@ -1,0 +1,133 @@
+{
+  "nome_completo": "Clarissa Leal Soares",
+  "o_que_eu_quero": "Meu objetivo é ingressar no setor de tecnologia atuando como desenvolvedora back-end e utilizando a tecnologia como forma de ajudar pessoas",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/clarissa-leal/",
+  "link_github": "https://github.com/lealclarissa",
+  "email": "lealclarissa2@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Recifense buscando utilizar a tecnologia como forma de ajudar pessoas",
+    "Sou bacharel em Gastronomia e Segurança Alimentar pela UFRPE como primeira formação. Ao longo da minha trajetória na primeira formação, desenvolvi algumas habilidades que contribuirão positivamente para o trabalho com tecnologia: senso de organização, trabalho em equipe, comunicação, idiomas (inglês, francês), proatividade, busca por excelência, criatividade para resolução de problemas. Atualmente estou em transição de carreira, participando do bootcamp da {reprograma} turma On7 de Back-End em parceria com o MINAs, conclusão Dez/2020",
+    "Gosto de estar sempre aprendendo coisas novas e 'partir problemas em pequenos pedaços' para encontrar uma solução para ele"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Projetos Práticos",
+      "empresa": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "atividades_desenvolvidas": "Projetos práticos semanais desenvolvidos ao longo do bootcamp, envolvendo os temas estudados. Git e github, JavaScript, Node.js, MongoDB, Postman, Heroku",
+      "link": "https://github.com/lealclarissa"
+    },
+    {
+      "cargo_funcao": "Gastrônoma",
+      "empresa": "Várias",
+      "periodo": "2013 a 2020",
+      "atividades_desenvolvidas": "Experiência com segurança alimentar, atendimento ao cliente, cozinha, bar, caixa, gerência, compras, criação de planilhas de controle, banco de dados de clientes; até consultoria para estabelecimentos na área de alimentação",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Bootcamp Back-end em parceria com o MINAs",
+      "instituicao": "reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Do básico de lógica de programação, git, github, javascript, node, banco de dados com mongodb, integração com banco de dados, autenticação jwt e frameworks e ferramentas associadas a isto. Finalizando com uma API REST completa."
+    },
+    {
+      "curso": "Lógica de programação essencial",
+      "instituicao": "Digital Innovation One Inc.",
+      "periodo": "Mai/2020",
+      "resumo_conhecimentos_aprendidos": "Aprendi sobre a comunicação ser humano-máquina, o que são algoritmos, lógica"
+    },
+    {
+      "curso": "Introdução ao Git e controle de versões",
+      "instituicao": "Digital Innovation One Inc.",
+      "periodo": "Out/2020",
+      "resumo_conhecimentos_aprendidos": "Aprendi o que é controle de versão e como trabalhar com o Git, assim como os seus principais comandos."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_curso": "Scrum",
+      "instituicao": "Digital Innovation One Inc.",
+      "resumo_conhecimentos_interesses": "Entendimento sobre metodologia ágil"
+    },
+    {
+      "interesse_curso": "JavaScript ES6 Essencial",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Atualizações do JavaScript"
+    },
+    {
+      "interesse_curso": "Introduction to Cybersecurity",
+      "instituicao": "CISCO",
+      "resumo_conhecimentos_interesses": "Aprender sobre segurança cibernética"
+    },
+    {
+      "interesse_curso": "CS50",
+      "instituicao": "Harvard",
+      "resumo_conhecimentos_interesses": "Introdução a Ciência da Computação e programação"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "NODEJS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "API REST",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "POSTMAN",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "EXPRESS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "SHELL",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "LÓGICA DE PROGRAMAÇÃO",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "FRANCÊS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "CANVA",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "SLACK",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "ROBO3T",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "VISUAL STUDIO CODE",
+      "pontuacao": 8
+    }
+  ]
+}

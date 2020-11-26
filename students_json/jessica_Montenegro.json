@@ -1,0 +1,137 @@
+{
+  "nome_completo": "Jessica A. Montenegro B. dos Santos",
+  "o_que_eu_quero": "Busco uma vaga de desenvolvedora back-end junior onde possa atua na construção de soluções ágeis e eficientes para o mercado. Amo programar e projetar, estou interessada em criar projetos de codificação criativos e fazer conexões com boas pessoas",
+  "link_linkedin": "https://www.linkedin.com/in/jambs/",
+  "link_github": "https://github.com/jambsantos",
+  "email": "jessica.aparecida@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Atualmente estou estudando Desenvolvimento Back-End na Reprograma pelo programa Minas do Porto Digital",
+    "Sou formada em Engenharia Química pela UFPE e Universidad de Valladolid, com atuação na indústria e em startup de educação atuando na análise de indicadores para melhoria de processo, em estratégias de melhoria continua e criação de produtos inovadores.",
+    "Sou uma nerd que toca samba e medito. Adoro aprender/ensinar e colocar em prática minha curiosidade, criatividade, empatia e proatividade."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Analista de dados no P&D",
+      "empresa": "Alicerce Educação",
+      "periodo": "Jun/2020 a Nov/2020",
+      "atividades_desenvolvidas": "Análise de dados do banco, implementação de dashboards (DataVis), desenvolvimento de manuais de aplicação  .",
+      "link": null
+    }, 
+    {
+      "cargo_funcao": "Coordenadora de Inovação",
+      "empresa": "Oficina de estudos",
+      "periodo": "Out/2017 a Nov/2020",
+      "atividades_desenvolvidas": "Gerenciamento de equipe de monitoria, criação de produtos educacionais e acompanhamento de indicadores de aprovação e melhoria de alunos durante processo de preparação par ao ENEM.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvimento Back-End",
+      "instituicao": "Reprograma - Minas Porto Digital",
+      "periodo": "Jul/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "JavaScript, NodeJS, MongoDB, Git e Github"
+    },
+    {
+      "curso": "Introdução ao Front-End",
+      "instituicao": "Programaria",
+      "periodo": "Set/2020 a Out/2020",
+      "resumo_conhecimentos_aprendidos": "CCS, HTML, JavaScript e metodologias ágeis"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso inteligência emocional",
+      "instituicao": "Conquer",
+      "resumo_conhecimentos_interesses": "Entendimento sobre inteligência emocional e desenvolvimento de soft skills"
+    },
+    {
+      "interesse_evento_curso": "Curso de Liderança na Prática",
+      "instituicao": "Fundação Estudar",
+      "resumo_conhecimentos_interesses": "Criação de projeto de educação em STEM para meninas e desenvolvimento de valores como protagonismo, conhecimento aplicado, execução e legado"
+    },
+    {
+      "interesse_evento_curso": "Curso de Python",
+      "instituicao": "FIAP",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe do python na analise de dados"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODEJS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT LAB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "ESPANHOL",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "LÓGICA DE PROGRAMAÇÃO",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "SALESFORCE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "POWER BI",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "EXCEL",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CANVAS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "ORATÓRIA",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "PROGRAMAS DO GOOGLE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 8
+    }
+  ]
+}

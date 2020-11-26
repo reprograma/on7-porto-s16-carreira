@@ -1,6 +1,6 @@
 {
   "nome_completo": "Monique Dália França Simões",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "o_que_eu_quero": "Desenvolver soluções desafiadoras que tragam benefício as pessoas",
   "cidade_estado:": "Recife/PE",
   "link_linkedin": "https://www.linkedin.com/in/monique-sim%C3%B5es-408458117/",
   "link_github": "https://github.com/mdfs2020",
@@ -81,7 +81,7 @@
   "no_que_me_destaco": [
     {
       "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
-      "pontuacao": 9
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "SQL",
@@ -93,7 +93,7 @@
     },
     {
       "habilidade_ferramenta": "JAVASCRIPT",
-      "pontuacao": 8
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "GIT/GITHUB",
@@ -101,11 +101,11 @@
     },
     {
       "habilidade_ferramenta": "HTML5",
-      "pontuacao": 8
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "CSS",
-      "pontuacao": 8
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "JAVA",
@@ -116,12 +116,8 @@
       "pontuacao": 9
     },
     {
-      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
-      "pontuacao": 6
-    },
-    {
       "habilidade_ferramenta": "POSTMAN",
-      "pontuacao": 9
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
@@ -129,7 +125,7 @@
     },
     {
       "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
-      "pontuacao": 8
+      "pontuacao": 6
     }
   ]
 }

@@ -1,74 +1,82 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Wanessa Priscila da Silva Souza",
+  "o_que_eu_quero": "Busco uma oportunidade na área de teste de software com foco na segurança de aplicações; tenho forte interesse por gestão de projetos de software",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/wanessa-pssouza/",
+  "link_github": "https://github.com/blackALT",
+  "email": "wanessapssouza@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Eu fui uma criança muito observadora. Amava resolver enigmas e montar quebra-cabeças. Escrever em palavras desde muito cedo se tornou minha atividade favorita.",
+    "Essas habilidades cresceram comigo e hoje, trabalhando com Segurança da Informação, desempenho funções que requerem conhecimentos em múltiplas áreas, sobretudo,", 
+    "na construção de uma capacidade analítica e na resolução de problemas. O interesse por códigos surgiu durante a adolescência, e desde então tive contato com algumas linguagens,", 
+    "mesmo que brevemente em pequenos projetos.",
+    "Sou uma pessoa comprometida, de personalidade calma e participativa. Pessoas próximas também atribuem a mim um senso natural de liderança, além de uma boa comunicação.",
+    "Criatividade, perseverança e iniciativa estão entre as minhas melhores qualidades profissionais."
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "cargo_funcao": "Analista de Segurança da Informação Pleno",
+      "empresa": "Tempest Security Intelligence",
+      "periodo": "Mar/2017 - atual",
+      "atividades_desenvolvidas": "Atividades que envolvem código: desenvolvimento de scripts de automação em ShellScript, Relatórios técnicos sobre exposição de informações sensíveis em códigos, monitoramento, leitura e interpretação de código malicioso.",
       "link": null
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Analista de Projetos de Engenharia da Computação",
+      "empresa": "Poli Júnior Engenharia",
+      "periodo": "Set/2015 a Jan/2017",
+      "atividades_desenvolvidas": " Análise de projetos de engenharia da computação, Gerência do setor de Tecnologia da Informação, Líder Técnico (Instrutor), Desenvolvimento de Websites (Wordpress), Manutenção e configuração de rede e computadores.",
+      "link": null
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Amálise e Desenvolvimento de Sistemas",
+      "instituicao": "Universidade Estácio de Sá",
+      "periodo": "Ago/2018 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento de sistemas, gestão de projetos de TI"
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Engenharia da Computação",
+      "instituicao": "Universidade de Pernambuco",
+      "periodo": "Set/2013 - atual",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento de software, Hardware, Eletrônica, Inteligência Artificial, Arquitetura de Computadores."
+    },
+    {
+      "curso": "Redes de Computadores",
+      "instituicao": "Escola Técnica SENAI",
+      "periodo": "Set/2012 - Jan/2014",
+      "resumo_conhecimentos_aprendidos": "Arquitetura, Segurança, Administração de Redes de Computadores."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Curso online de especialização em gestão de projetos",
+      "instituicao": "Coursera",
+      "resumo_conhecimentos_interesses": "Planejamento, Orçamento, Cronograma e execução de projetos"
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Bootcamp - Backend com NodeJS",
+      "instituicao": "Reprograma",
+      "resumo_conhecimentos_interesses": "Arquitetura MVC, API Rest, Banco de Dados"
     }
   ],
   "no_que_me_destaco": [
     {
       "habilidade_ferramenta": "HTML",
-      "pontuacao": 9
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "CSS",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "SASS",
       "pontuacao": 6
     },
     {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 3
+    },
+    {
       "habilidade_ferramenta": "JAVASCRIPT",
-      "pontuacao": 8
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "JQUERY",
@@ -76,7 +84,7 @@
     },
     {
       "habilidade_ferramenta": "NODE",
-      "pontuacao": 1
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "GIT/GITHUB",
@@ -84,39 +92,39 @@
     },
     {
       "habilidade_ferramenta": "BOOTSTRAP",
-      "pontuacao": 9
+      "pontuacao": 4
     },
     {
       "habilidade_ferramenta": "REACT",
-      "pontuacao": 8
+      "pontuacao": 1
     },
     {
       "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
-      "pontuacao": 5
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "RESPONSIVIDADE",
-      "pontuacao": 9
+      "pontuacao": 2
     },
     {
       "habilidade_ferramenta": "UX DESIGN",
-      "pontuacao": 6
+      "pontuacao": 2
     },
     {
       "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
-      "pontuacao": 6
+      "pontuacao": 2
     },
     {
       "habilidade_ferramenta": "WORDPRESS",
-      "pontuacao": 9
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "PHP",
-      "pontuacao": 3
+      "pontuacao": 5
     },
     {
       "habilidade_ferramenta": "MySQL",
-      "pontuacao": 3
+      "pontuacao": 5
     },
     {
       "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
@@ -124,7 +132,7 @@
     },
     {
       "habilidade_ferramenta": "FTP",
-      "pontuacao": 5
+      "pontuacao": 8
     },
     {
       "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
@@ -132,15 +140,15 @@
     },
     {
       "habilidade_ferramenta": "PHOTOSHOP",
-      "pontuacao": 9
+      "pontuacao": 2
     },
     {
       "habilidade_ferramenta": "ILUSTRATOR",
-      "pontuacao": 9
+      "pontuacao": 2
     },
     {
       "habilidade_ferramenta": "INDESIGN",
-      "pontuacao": 9
+      "pontuacao": 7
     }
   ]
 }

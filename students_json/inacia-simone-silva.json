@@ -22,9 +22,15 @@
   ],
   "o_que_ja_estudei": [  
     {
+      "curso": "Curso de Back-end",
+      "instituicao": "Reprograma",
+      "periodo": "Agosto/2020 a Dezembro/2020",
+      "resumo_conhecimentos_aprendidos": "Linguagem Javascript, Git e GitHub, Lógica de Programação, Desenvolvimento de API com Node.js, MongoDB. "
+    },
+    {
       "curso": "Licenciatura Plena em Pedagogia",
       "instituicao": "UFPE",
-      "periodo": "Janeiro/2016 a Dezembro/2018",
+      "periodo": "Janeiro/1990 a Dezembro/1994",
       "resumo_conhecimentos_aprendidos": "Criação de plano de aulas, planejamentos diversos, definição de  conteúdos, ministrar aulas."
     },
     {

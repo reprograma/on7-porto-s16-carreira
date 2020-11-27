@@ -34,22 +34,27 @@
       "resumo_conhecimentos_aprendidos": "Lógica de programação, JavaScript, NodeJS, Versionamento de código (Git), API Rest, Banco de dados não-relacional, Autorização/Autenticação, Heroku"
     },
     {
-      "curso": "Formação Oracle ONE: Front-End",
-      "instituicao": "Alura",
-      "periodo": "Dez/2019 a Jun/2020",
-      "resumo_conhecimentos_aprendidos": "HTML5, CSS3, JavaScript, Web-Responsividade"
+      "curso": "Engenharia Química",
+      "instituicao": "Universidade Federal de Pernambuco",
+      "periodo": "Fev/2017 a Dez/2021",
+      "resumo_conhecimentos_aprendidos": "Cálculos I ao IV, Introdução à linguagem C, além de entendimento sobre computação eletrônica na engenharia química, onde estudei VBA e MATLAB."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
+      "interesse_evento_curso": "Formação Oracle ONE: Front-End",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Entendimento sobre HTML5, CSS3, JavaScript e Web Responsividade."
+    },
+    {
       "interesse_evento_curso": "Formação Oracle ONE: Empreendedorismo",
       "instituicao": "Alura",
-      "resumo_conhecimentos_interesses": "Entendimento sobre o Business Model Canvas, desenvolvimento de produto e Lean Startup"
+      "resumo_conhecimentos_interesses": "Entendimento sobre o Business Model Canvas, desenvolvimento de produto e Lean Startup."
     },
     {
       "interesse_evento_curso": "Inteligência Emocional",
       "instituicao": "Fundação Estudar",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a própria capacidade de automotivação e como viver com uma vida mais equilibrada com meus sentimentos mesmo em momentos de estresse"
+      "resumo_conhecimentos_interesses": "Entendimento sobre a própria capacidade de automotivação e como viver com uma vida mais equilibrada com meus sentimentos mesmo em momentos de estresse."
     }
   ],
   "no_que_me_destaco": [
@@ -79,11 +84,11 @@
     },
     {
       "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
-      "pontuacao": 5
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "MONGODB",
-      "pontuacao": 6
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "API REST",

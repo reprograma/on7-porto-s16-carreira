@@ -1,0 +1,131 @@
+{
+  "nome_completo": "Eline Silva de Paula Pimentel",
+  "o_que_eu_quero": "Quero trabalhar como Desenvolvedora Back-End e colocar em prática o que aprendi no curso récem finalizado. Anseio continuar crescendo na área de tecnologia, aprimorando meus conhecimentos como estudar Front-End e novas linguagens.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/eline-silva-de-paula-pimentel/",
+  "link_github": "https://github.com/eline-create",
+  "email": "eline.geo@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Aqui é um parágrafo descrevendo um pouco sobre você",
+    "Aqui é outro parágrafo falando sobre sua trajetória",
+    "Nesse aqui você pode dizer o que você curte fazer",
+    "Fique a vontade, mas busque ser objetiva"
+    
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Agente de Pesquisa Administrativo",
+      "empresa": "Instituto Brasileiro de Geografia e Estatística - IBGE",
+      "periodo": "Abr/2017 a Out/2019",
+      "atividades_desenvolvidas": "Desempenhei atividades administrativas e técnicas, como diagramação de mapas dos setores censitários, auxílio admnistrativo à Coordenação Estadual de Cadastros de Endereços, gerenciamento da equipe e setores a serem atualizados, contato com as demais agências do IBGE no estado, pesquisas econômicas com empresas.",
+      "link": "https://www.ibge.gov.br/"
+    },
+    {
+      "cargo_funcao": "Professora-Pesquisadora Bolsista",
+      "empresa": "Instituto Federal de Pernambuco/IFPE",
+      "periodo": "Out/2013 a Abr/2017",
+      "atividades_desenvolvidas": "Exerci atividades administrativas e pedagógicas. Atuei junto ao setor de Orçamento e Solicitação de Diárias e Passagens para atividades pedagógicas a distância; Assessoria a Direção da Educação a Distancia; Fui coordenadora de Tutoria do Curso Técnico em Manutenção Automotiva.Por fim, fui Coordenadora Integrada de Tutoria Presencial e Coordenadores de Polo, articulava os tutores presenciais e coordenadores de polos de Educação à Distância com as coordenações de cursos situadas na sede da Diretoria da Educação à Distância.",
+      "link": "https://portal.ifpe.edu.br/campus/ead"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Bacharelado em Geografia",
+      "instituicao": "Universidade Federal de Pernambuco - UFPE",
+      "periodo": "Abr/2014 a Mar/2018",
+      "resumo_conhecimentos_aprendidos": "Trabalho em Equipe, planejamento, visão holística, auto gestão e dedicação."
+    },
+    {
+      "curso": "Especialização em Gestão Ambiental",
+      "instituicao": "Faculdade de Ciências Humanas - ESUDA",
+      "periodo": "Jan/2015 a Dez/2015",
+      "resumo_conhecimentos_aprendidos": "Pesquisa, adaptação, estudo focado, auto gerenciamento."
+    },
+    {
+      "curso": "Mestrado em Geografia",
+      "instituicao": "Universidade Federal de Pernambuco - UFPE",
+      "periodo": "Jan/2010 a Jan/2012",
+      "resumo_conhecimentos_aprendidos": "Pesquisa, planejamento, auto gestão, adaptação e auto controle.  "
+    },
+    {
+      "curso": "Desenvolvimento Web Back-End",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento web, lógica de programação, Banco de Dados NoSQL (MongoDB), JavaScript, Node.JS, Versionamento de Projetos(Git/GitHub), Shell script, Express.Js, Autenticação/Autorização."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Diálogo Aberto sobre Ética na IA ",
+      "instituicao": "Université de Montréal",
+      "resumo_conhecimentos_interesses": "Discussão e breve análise das recomendações ou demandas, por continente, sobre a Inteligência Artificial ao Relatório da UNESCO. Link para o relatório:(https://unesdoc.unesco.org/ark:/48223/pf0000373434) ."
+    },
+    {
+      "interesse_evento_curso": "Lógica de Programação",
+      "instituicao": "Digital Innovation One Inc.",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+    },
+    {
+      "interesse_evento_curso": "Programação para Internet com HTML5 e CSS3",
+      "instituicao": "Digital Innovation One Inc.",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+    },
+    {
+      "interesse_evento_curso": "Introdução ao GITHUb e comandos para trabalhar em equipe",
+      "instituicao": "Digital Innovation One Inc.",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+    },
+    {
+      "interesse_evento_curso": "Hacktober Fest",
+      "instituicao": "Whomen Who Code - Recife/PE",
+      "resumo_conhecimentos_interesses": "Contribuição em projeto open source, geração de pull request(PR) com várias pessoas, experiência de ver as diferentes modificações serem unidas ao projeto original."
+    },
+    {
+      "interesse_evento_curso": "Trilha JavaScript e Node.JS",
+      "instituicao": "The Developer's Conference Online 2020",
+      "resumo_conhecimentos_interesses": "Entendimento sobre sintaxe básica do javascript, Chatbot, Algoritmos de criptografia, sites seguros, API Gateway, Governança de API, API Restfull, Status Code."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "EXPRESS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 1
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 7 
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MONGO db",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "API REST",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PYTHON",
+      "pontuacao": 2
+    }    
+  ]
+}

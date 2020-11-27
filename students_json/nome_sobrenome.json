@@ -6,11 +6,11 @@
   "link_github": "https://github.com/blackALT",
   "email": "wanessapssouza@gmail.com",
   "um_pouco_sobre_mim": [
-    "Eu fui uma criança muito observadora. Amava resolver enigmas e montar quebra-cabeças. Escrever em palavras desde muito cedo se tornou minha atividade favorita.",
-    "Essas habilidades cresceram comigo e hoje, trabalhando com Segurança da Informação, desempenho funções que requerem conhecimentos em múltiplas áreas, sobretudo,", 
-    "na construção de uma capacidade analítica e na resolução de problemas. O interesse por códigos surgiu durante a adolescência, e desde então tive contato com algumas linguagens,", 
-    "mesmo que brevemente em pequenos projetos.",
-    "Sou uma pessoa comprometida, de personalidade calma e participativa. Pessoas próximas também atribuem a mim um senso natural de liderança, além de uma boa comunicação.",
+    "Eu fui uma criança muito observadora. Amava resolver enigmas e montar quebra-cabeças. Escrever, desde muito cedo, se tornou minha atividade favorita.",
+    "Essas habilidades cresceram comigo e hoje, trabalhando com Segurança da Informação há mais de 3 anos, desempenho funções que requerem conhecimentos em múltiplas áreas,",
+    "para construir e aguçar a capacidade analítica e a resolução de problemas.", 
+    "O interesse por códigos surgiu durante a adolescência, e desde então tive contato com algumas linguagens, mesmo que brevemente em pequenos projetos.",
+    "Sou uma pessoa comprometida, de personalidade calma e participativa. Pessoas próximas também atribuem a mim um senso natural de liderança, além de uma boa comunicação oral e escrita.",
     "Criatividade, perseverança e iniciativa estão entre as minhas melhores qualidades profissionais."
   ],
   "no_que_ja_trabalhei": [
@@ -59,6 +59,11 @@
       "interesse_evento_curso": "Bootcamp - Backend com NodeJS",
       "instituicao": "Reprograma",
       "resumo_conhecimentos_interesses": "Arquitetura MVC, API Rest, Banco de Dados"
+    },
+    {
+      "interesse_evento_curso": "Excel Avançado",
+      "instituicao": "Fudação Bradesco",
+      "resumo_conhecimentos_interesses": "Planilhas eletrônicas, automação de processos com Exel"
     }
   ],
   "no_que_me_destaco": [
@@ -80,7 +85,7 @@
     },
     {
       "habilidade_ferramenta": "JQUERY",
-      "pontuacao": 6
+      "pontuacao": 1
     },
     {
       "habilidade_ferramenta": "NODE",
@@ -149,6 +154,14 @@
     {
       "habilidade_ferramenta": "INDESIGN",
       "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MongoDB",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 4
     }
   ]
 }

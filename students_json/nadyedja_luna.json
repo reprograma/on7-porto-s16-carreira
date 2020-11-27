@@ -62,11 +62,11 @@
     ],
         "no_que_me_destaco": [{
             "habilidade_ferramenta": "Git e GitHub",
-            "pontuacao": 8
+            "pontuacao": 9
         },
         {
             "habilidade_ferramenta": "javaScript",
-            "pontuacao": 6
+            "pontuacao": 7
         },
         {
             "habilidade_ferramenta": "HTML e CSS",
@@ -74,11 +74,11 @@
         },
         {
             "habilidade_ferramenta": "MongoDB",
-            "pontuacao": 7
+            "pontuacao": 8
         },
         {
             "habilidade_ferramenta": "Node.js",
-            "pontuacao": 7
+            "pontuacao": 8
         },
         {
             "habilidade_ferramenta": "JQuery",
@@ -86,7 +86,7 @@
         },   
         {
             "habilidade_ferramenta": "Metodologias Ágeis",
-            "pontuacao": 3
+            "pontuacao": 4
         }
     ]
 }

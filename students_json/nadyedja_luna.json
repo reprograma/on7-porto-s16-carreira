@@ -1,0 +1,92 @@
+{
+    "nome_completo": "Nadyédja Kelayne Marques de Luna",
+    "o_que_eu_quero": "Ser Desenvolvedora Web",
+    "cidade_estado:": "Jaboatão dos Guararapes/PE",
+    "link_linkedin": "https://www.linkedin.com/in/nadyluna-dev/",
+    "link_github": "https://github.com/NadyLuna",
+    "email": "nadyluna.dev@gmail.com",
+    "um_pouco_sobre_mim": ["Sou especialista em Finanças, Custos e Controladoria, Estudante e entusiasta de Tecnologia", 
+        "Desenvolvedora web com foco em BackEnd , sempre em busca de aprimorar conhecimentos e habilidades através de cursos, projetos e muita vontade de aprender!",
+        "Tenho Habilidades em Excel avançado, ERP Oracle, Ferramentas de BI, Cubo de dados, Windows, Office 365, atendimento a Auditoria Externa/Interna.",
+        "Conquistas: Implementação de processos de conciliação de Aging List x Contabilidade com redução de impactos negativos no Resultado (Ebitda) semestralmente/anualmente. Tendo sido premiada no Programa RECONHECER na UniFG por Resultados no ano de 2017.",
+        "Entusiasta do mercado financeiro, vivenciando um pouco de investimentos em renda fixa, fundos de investimento e algumas ações."
+    ],
+    "no_que_ja_trabalhei": [{
+            "cargo_funcao": "Analista de Custos",
+            "empresa": "Orthos Consultoria Empresarial",
+            "periodo": "jul/2018 a mar/2020",
+            "atividades_desenvolvidas": "Consultoria de Custos focado em Laboratórios de Análises. Clínicas no Norte e Nordeste atendidos por uma equipe em Recife/PE.",
+            "link": "https://orthos.srv.br/consultoria/"
+        },
+        {
+            "cargo_funcao": "Analista Financeiro",
+            "empresa": "UniFG",
+            "periodo": "out/2012 a jul/2018",
+            "atividades_desenvolvidas": "Especialista em faturamento, Aginlist, Orçamento, Budget, forecast...",
+            "link": "null"
+        }
+    ],
+    "o_que_ja_estudei": [{
+            "curso": "Desenvolvedor Back End",
+            "instituicao": "Reprograma",
+            "periodo": "ago/2020 a Dez/2020",
+            "resumo_conhecimentos_aprendidos": "Desenvolvimento Back End, com Node.js e JavaCript"
+        },
+        {
+            "curso": "Desenvolvedor FullStack",
+            "instituicao": "Digital Innovation One",
+            "periodo": "out/2020 a jan/2021",
+            "resumo_conhecimentos_aprendidos": "Desenvolvimento Fullstack com C#, HTML e CSS, Javascript, API.NET, Angular..."
+        }
+    ],
+    "meus_outros_aprendizados_e_interesses": [{
+            "interesse_evento_curso": "Curso online de Linguagem de Programação",
+            "instituicao": "Fundação Bradesco",
+            "resumo_conhecimentos_interesses": "Fundamentos de Linguagem de programação"
+        },
+        {
+            "interesse_evento_curso": "Hacking de carreira",
+            "instituicao": "WoMakerCode",
+            "resumo_conhecimentos_interesses": "Soft Skills, Modern Technology (Cloud Computing,Cyber Security, Office 365, LGPD, Azure Functions, Poer BI, Engenharia de Dados e Machine Learning"
+        },
+        {
+            "interesse_evento_curso": "Workshop de Agilidade Emocional",
+            "instituicao": "Maku Almeida",
+            "resumo_conhecimentos_interesses": ""
+        },
+        {
+            "interesse_evento_curso": "A comunicação como ponte para a alta performance",
+            "instituicao": "Maku Almeida",
+            "resumo_conhecimentos_interesses": ""
+        }
+    ],
+        "no_que_me_destaco": [{
+            "habilidade_ferramenta": "Git e GitHub",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "javaScript",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "HTML e CSS",
+            "pontuacao": 4
+        },
+        {
+            "habilidade_ferramenta": "MongoDB",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "Node.js",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "JQuery",
+            "pontuacao": 1
+        },   
+        {
+            "habilidade_ferramenta": "Metodologias Ágeis",
+            "pontuacao": 3
+        }
+    ]
+}

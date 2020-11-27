@@ -1,0 +1,99 @@
+{
+  "nome_completo": "Marcela Stephanie Coutinho de Vasconcelos",
+  "o_que_eu_quero": "Trabalhar como Desenvolvedora Back-End",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/marcelascv/",
+  "link_github": "https://github.com/marcelascv",
+  "email": "adm.marcelavasconcelos@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou Marcela, tenho 29 anos, pernambucana, administradora de formação com especialização em gestão com pessoas",
+    "Profissional da área de RH com mais de 5 anos de experiência atuando em empresa de grande porte. Sólidos conhecimentos como parceira de negócio, principalmente, na gestão de indicadores para tomada de decisão.",
+    "Sempre gostei de aprender coisas novas e assumir novos desafios. Atualmente, sou aluna da turma on7 de back-end pela {Reprograma} em parceria com o projeto Minas do Porto Digital"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Analista de Remuneração e MIS Sr",
+      "empresa": "Empresa Sesc em Minas",
+      "periodo": "Set/2020 a atual",
+      "atividades_desenvolvidas": "Gestão do orçamento, indicadores, políticas e estudos salariais",
+      "link": "https://www.sescmg.com.br"
+    },
+    {
+      "cargo_funcao": "Analista de Remuneração e Benefício Pl",
+      "empresa": "Grupo Cornélio Brennand",
+      "periodo": "Nov/2018 a Fev/2020",
+      "atividades_desenvolvidas": "Gestão de orçamento, indicadores, benefícios, políticas, metas e movimentações",
+      "link": "https://www.grupocorneliobrennand.com.br/pt"
+    },
+    {
+      "cargo_funcao": "Analista de RH Pl",
+      "empresa": "Grupo Cornélio Brennand",
+      "periodo": "Jan/2017 a Out/2018",
+      "atividades_desenvolvidas": "Suporte ao negócio, gestão de indicadores, benefícios, políticas, avaliação de desempenho, rotinas de administração de pessoal",
+      "link": "https://www.grupocorneliobrennand.com.br/pt"
+    },
+    {
+      "cargo_funcao": "Analista de RH Jr",
+      "empresa": "Grupo Cornélio Brennand",
+      "periodo": "Mar/2015 a Dez/2016",
+      "atividades_desenvolvidas": null,
+      "link": "https://www.grupocorneliobrennand.com.br/pt"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Back-End",
+      "instituicao": "{Reprograma}",
+      "periodo": "Set/2020 a atual",
+      "resumo_conhecimentos_aprendidos": "Javascript, github, NodeJS e banco de dados"
+    },
+    {
+      "curso": "Curso de Web Design",
+      "instituicao": "Escola Tal",
+      "periodo": "Jan/2015 a Dez/2015",
+      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": null,
+      "instituicao": null,
+      "resumo_conhecimentos_interesses": null
+    },
+    {
+      "interesse_evento_curso": null,
+      "instituicao": null,
+      "resumo_conhecimentos_interesses": null
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "EXCEL",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "POWER BI",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "RACIOCÍNIO LÓGICO",
+      "pontuacao": 8
+    }
+  ]
+}

@@ -44,7 +44,13 @@
       "instituicao": "Digital Innovation One Inc.",
       "periodo": "Out/2020",
       "resumo_conhecimentos_aprendidos": "Aprendi o que é controle de versão e como trabalhar com o Git, assim como os seus principais comandos."
-    }
+    },
+    {
+        "curso": "Gastronomia e Segurança Alimentar",
+        "instituicao": "UFRPE",
+        "periodo": "Ago/2011 a Ago/2016",
+        "resumo_conhecimentos_aprendidos": "capacitada para gerenciar, operacionalizar e criar, de forma otimizada, rentável e segura, todas as atividades relacionadas ao setor de alimentos e bebidas"
+      }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
@@ -115,7 +121,7 @@
     },
     {
       "habilidade_ferramenta": "CANVA",
-      "pontuacao": 9
+      "pontuacao": 8
     },
     {
       "habilidade_ferramenta": "SLACK",

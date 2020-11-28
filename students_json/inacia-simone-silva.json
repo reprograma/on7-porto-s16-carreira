@@ -144,6 +144,10 @@
     {
       "habilidade_ferramenta": "ROBOT 3T",
       "pontuacao": 8
+    },
+     {  
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 4
     }
       
   ]

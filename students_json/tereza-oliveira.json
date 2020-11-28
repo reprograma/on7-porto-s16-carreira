@@ -1,0 +1,103 @@
+{
+  "nome_completo": "Tereza Cristina de Oliveira",
+  "o_que_eu_quero": "Trabalhar na área de desenvolvimento back-end, atuando como desenvolvedora júnior",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/tereza-oliveira/",
+  "link_github": "https://github.com/Tereza25",
+  "email": "tereza.dev@outlook.com",
+  "um_pouco_sobre_mim": [
+    "Sou administradora e educadora social, trabalho com um público diverso ensinando as pessoas a crescerem no mercado de trabalho.",
+    "Tenho muita afinidade com tecnologia, encontrei na programação a oportunidade de usar minhas habilidades, encontrar soluções e gerar resultados em equipe."
+   ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Desenvolvedor .Net",
+      "empresa": "Olie Tecnologia",
+      "periodo": "Set/2020 a Nov/2020",
+      "atividades_desenvolvidas": "Desenvolvimento de sistema de Gestão Escolar utilizando ASP.MVC.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Instrutora de aprendizagem",
+      "empresa": "CIEE Pernambuco",
+      "periodo": "Set/2013 a data atual",
+      "atividades_desenvolvidas": "Desenvolvimento educacional e profissional de jovens aprendizes; Atividades de gestão e liderança de equipes; Planejamento dos treinamentos através de técnicas de gamificação, resolução de problemas e construção de projetos pedagógicos.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Programação Back-end",
+      "instituicao": "{reprograma}",
+      "periodo": "Jan/2016 a Dez/2018",
+      "resumo_conhecimentos_aprendidos": "Javascript; Node.js; React; Git e GitHub; MongoDB. Atividades semanais e microprojetos usando de recursos de programação orientada a objetos."
+    },
+    { 
+      "curso": "Administração de Empresas - Bacharel",
+      "instituicao": "FOCCA- Faculdade de Olinda",
+      "periodo": "Jan/2010 a Dez/2014",
+      "resumo_conhecimentos_aprendidos": "Planejamento, análise e gestão empresarial."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Management 3.0 e a Liderança Ágil",
+      "instituicao": "TI Exames",
+      "resumo_conhecimentos_interesses": "Ferramentas de gerenciamento de equipes e fundamentos de liderança ágil."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "ASP.NET",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "API",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS AGEIS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "SISTEMAS OPERACIONAIS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GESTAO DE PESSOAS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "COMUNICACAO",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "TRABALHO EM EQUIPE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "INGLES",
+      "pontuacao": 7
+    }
+  ]
+}

@@ -1,145 +1,111 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Marina Freitas",
+  "o_que_eu_quero": "Ser uma profissional bem sucessedida na área de tecnologia trabalhando em projetos diferentes ao longo da vida, aprendendo sempre e mudando a vida das pessoas pra melhor",
+  "cidade_estado:": "Paulista/PE",
+  "link_linkedin": "https://www.linkedin.com/in/marina-freitas-moura/",
+  "link_github": "https://https://github.com/marinamare",
+  "email": "marinamaredesign@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Eu me chamo Marina Maré e sou apaixonada por aprender, ensinar e transformar as coisas. O primeiro curso superior com o qual tive contato foi Direito na UFPE, mas depois de 7 períodos lá compreendi que gostaria de trabalhar em uma área que me possibilitasse de maneira mais intensa causar impacto e mudanças na sociedade ao meu redor.",
+
+    "Depois de muita terapia e um processo seletivo que me concedeu uma bolsa quase integral, entrei no curso de Design da C.E.S.A.R. School, escola de inovação localizada no Porto Digital, tendo sido decisivo na minha escolha o fato de haver proximidade entre as duas graduações da instituição: cc e design. Por ser uma instituição que utiliza a metodologia PBL (aprendizado baseado em resolução de problemas), desde o primeiro período participo semestralmente de projetos com clientes reais do Instituto C.E.S.A.R. Assim, pude amadurecer habilidades de comunicação, liderança e empatia bem como me familiarizar com processos de design e desenvolvimento de sistemas.", 
+    
+    "No meio desse ano tive a oportunidade de me aproximar mais da área de desenvolvimento através do curso de back-end da reprograma, nele, além de aprender coisas como JavaScript, NodeJS e Github tive contato de maneira mais intensa com a mentalidade colaborativa, sentindo que ela torna os processos muito mais fluidos e prazerosos.", 
+    
+    "Atualmente busco uma empresa que acolha meu perfil enquanto uma profissional interessada em me aprofundar na área de desenvolvimento de maneira aliada à minha formação em design. Me dando a possibilidade de continuar aprendendo coisas novas e mudando realidades a partir disso."
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": null
+      "cargo_funcao": "Estagiária de Design Gráfica",
+      "empresa": "Secretaria da Mulher da Prefeitura da Cidade do Recife",
+      "periodo": "Ago/2019 a Ago/2020",
+      "atividades_desenvolvidas": "Ideação e desenvolvimento de identidades visuais e peças gráficas com a finalidade informativa ou relativa a campanhas temáticas voltadas às mulheres da cidade do Recife",
+      "link": 
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Estagiária de Design",
+      "empresa": "Núcleo de Gestão do Porto Digital",
+      "periodo": "Set/2020 a atualmente",
+      "atividades_desenvolvidas": "Ideação e desenvolvimento de identidades visuais, peças e campanhas para redes sociais, bem como estampas e mockups para materiais promocionais e estudos estratégicos relativos a interação com usuários nas redes sociais",
+      "link": 
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Bacharelado em Design",
+      "instituicao": "C.E.S.A.R. School",
+      "periodo": "Jun/2018 a Jun/2022",
+      "resumo_conhecimentos_aprendidos": "Design como processo de interação com problemas complexos a fim de desenvolver experiências melhores através de interações de usuários com produtos e serviços"
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Back-end",
+      "instituicao": "{Reprograma}",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": ""
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
-    },
-    {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "UX Writing",
+      "instituicao": "C.E.S.A.R. School",
+      "resumo_conhecimentos_interesses": "Como desenvolver uma melhor experiência do usuário através da escrita, seja de nomes de botões ou de textos aplicados a peças gráficas, etc"
     }
   ],
   "no_que_me_destaco": [
     {
-      "habilidade_ferramenta": "HTML",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "CSS",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "SASS",
+      "habilidade_ferramenta": "C++",
       "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "JAVASCRIPT",
-      "pontuacao": 8
-    },
-    {
-      "habilidade_ferramenta": "JQUERY",
-      "pontuacao": 6
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "NODE",
-      "pontuacao": 1
+      "pontuacao": 5
     },
     {
       "habilidade_ferramenta": "GIT/GITHUB",
       "pontuacao": 8
     },
     {
-      "habilidade_ferramenta": "BOOTSTRAP",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "REACT",
-      "pontuacao": 8
-    },
-    {
       "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
-      "pontuacao": 5
-    },
-    {
-      "habilidade_ferramenta": "RESPONSIVIDADE",
-      "pontuacao": 9
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "UX DESIGN",
-      "pontuacao": 6
-    },
-    {
-      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
-      "pontuacao": 6
-    },
-    {
-      "habilidade_ferramenta": "WORDPRESS",
       "pontuacao": 9
     },
     {
-      "habilidade_ferramenta": "PHP",
-      "pontuacao": 3
+      "habilidade_ferramenta": "UI DESIGN",
+      "pontuacao": 7
     },
     {
-      "habilidade_ferramenta": "MySQL",
-      "pontuacao": 3
-    },
-    {
-      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "habilidade_ferramenta": "ADOBE XD",
       "pontuacao": 8
     },
     {
-      "habilidade_ferramenta": "FTP",
-      "pontuacao": 5
+      "habilidade_ferramenta": "FIGMA",
+      "pontuacao": 9
     },
     {
-      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "habilidade_ferramenta": "SOUNDTRAP FOR STORYTELLERS",
       "pontuacao": 8
     },
     {
-      "habilidade_ferramenta": "PHOTOSHOP",
+      "habilidade_ferramenta": "AFFINITY DESIGN",
       "pontuacao": 9
     },
     {
-      "habilidade_ferramenta": "ILUSTRATOR",
+      "habilidade_ferramenta": "ADOBE PHOTOSHOP",
       "pontuacao": 9
     },
     {
-      "habilidade_ferramenta": "INDESIGN",
+      "habilidade_ferramenta": "ADOBE ILLUSTRATOR",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "ADOBE INDESIGN",
       "pontuacao": 9
     }
   ]

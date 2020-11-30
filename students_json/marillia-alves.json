@@ -1,0 +1,80 @@
+{
+  "nome_completo": "Maríllia Karla Alves do Nascimento",
+  "o_que_eu_quero": "Desenvolver meus conhecimentos em programação",
+  "cidade_estado:": "Olinda/PE",
+  "link_linkedin": "https://www.linkedin.com/in/marillialves/",
+  "link_github": "https://github.com/marilliaalves",
+  "email": "mmarillialves@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Me chamo Maríllia Alves, tenho 25 anos e sou estudante de Publicidade",
+    "ao longo da minha vida sempre busquei estar envolvida com a comunicação, é o que me faz sentido e me dá vontade de aprender mais e mais, por isso, todas as minhas experiências se dão nesse âmbito e eu busco uma oportunidade que envolva a comunicação",
+    "gosto de aprender coisas novas e isso me motiva a nunca estar parada"
+
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Redação e atendimento",
+      "empresa": "Agência Atacama",
+      "periodo": "2020 - Até o momento",
+      "atividades_desenvolvidas": "Criação de textos para redes sociais, Monitoramento de redes e interação com usuários SAC 2.0, Gerenciamento de redes sociais.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Social Media",
+      "empresa": "Freelancer",
+      "periodo": "2020 - Até o momento",
+      "atividades_desenvolvidas": "Planejamento e criação de conteúdo para Instagram, Desenvolvimento de estratégias adequadas ao target do cliente, Monitoramento de rede e interação com usuários.",
+      "link": "https://www.instagram.com/prof.fabioholanda/"
+    },
+    {
+      "cargo_funcao": "inteligência de negócios e inovação",
+      "empresa": "Estaf Equipamentos",
+      "periodo": "2019 - 2020",
+      "atividades_desenvolvidas": "Auxilio nas pesquisas de oportunidades de negócios e alimentação do CRM com leads, Elaboração/diagramação de anúncios, folders e materiais publicitários, Monitoramento de campanhas no Google e Facebook ADS, Relatórios de desempenho nas mídias online, Campanhas de endomarketing.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Publicidade e Propaganda",
+      "instituicao": "Universidade Católica de Pernambuco",
+      "periodo": "Ago/2020 - Ago/2023",
+      "resumo_conhecimentos_aprendidos": "O publicitário estará apto para planejar, criar, produzir, difundir e gerir a comunicação publicitária, promover ações promocionais e de incentivo, atividades de “marketing”, venda pessoal e identidade corporativa, e realizar assessoria publicitária e de informação."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso de Mídia Online",
+      "instituicao": "Berlim Digital",
+      "resumo_conhecimentos_interesses": "Construção de plano de mídia online, utilização de ferramentas digitais para montar planejamentos, mensurar resultados, estratégia de fluxo de conversão"
+    },
+    {
+      "interesse_evento_curso": "Carreiras Digitais",
+      "instituicao": "Gama Academy",
+      "resumo_conhecimentos_interesses": "Resumo acerca das carreiras digitais e quais as possibilidades dentro da gama de oportunidades"
+    }
+  ],
+  "no_que_me_destaco": [
+    
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "INDESIGN",
+      "pontuacao": 7
+    }
+  ]
+}

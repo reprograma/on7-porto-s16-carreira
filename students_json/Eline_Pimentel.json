@@ -8,7 +8,7 @@
   "um_pouco_sobre_mim": [
     "Busco superar a mim e não desisto dos meus objetivos no primeiro obstáculo. Sigo ciente de que sou minha maior concorrente. Sou empática e proativa. Relaciono-me com facilidade em grupos e tenho vontade de aprender.",
     "Durante muito tempo quis ser professora universitária. Neste caminho conheci a área pública e decidi seguir na área de concursos, pensando em unir a Geografia e a Educação. Foi quando assumi um cargo como temporária no IBGE, me deparei com a tecnologia, através do Geoprocessamento e acesso a Banco de Dados. Após finalização do contrato e posterior pandemia, surgiu a oportunidade de cursar Desenvolvimento Web, decidi então, migrar de área.",
-    "Gosto de criar coisas e de saber de tudo um pouco, desde como consertar um buraco na parede, como cortar os próprios cabelos ou até que óleo essencial serve para dores de cabeça. Ler sempre foi uma paixão, mas não deixo de lado um bom filme sobre ficção cinetífica."    
+    "Gosto de criar coisas e de saber de tudo um pouco, desde como consertar um buraco na parede, como cortar os próprios cabelos ou até que óleo essencial serve para dores de cabeça. Ler sempre foi uma paixão, mas não deixo de lado um bom filme sobre ficção cinetífica."
   ],
   "no_que_ja_trabalhei": [
     {
@@ -107,7 +107,7 @@
     },
     {
       "habilidade_ferramenta": "NODE",
-      "pontuacao": 7 
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "GIT/GITHUB",
@@ -124,6 +124,6 @@
     {
       "habilidade_ferramenta": "PYTHON",
       "pontuacao": 2
-    }    
+    }
   ]
 }

@@ -1,0 +1,190 @@
+{
+  "nome_completo": "Lilian Dias Fernandes Silva",
+  "o_que_eu_quero": "Procuro oportunidade como desenvolvedora back-end, meu objetivo é continuar a desenvolver minhas habilidades técnicas e aprimorar meus conhecimentos.",
+  "cidade_estado:": "Petrolina/PE",
+  "link_linkedin": "https://www.linkedin.com/in/dias-lilian/",
+  "link_github": "https://github.com/diaslilian",
+  "email": "lilian.dias25@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou apaixonada por novas tecnologias, principalmente pelo mundo Linux, Open Source e todo o ecossistema Javascript.",
+    "Atuo no desenvolvimento de web sites como freelance, onde desenvolvi minhas habilidades de organização do tempo, adaptabilidade, determinação e facilidade de aprendizagem.",
+    "Motivada por desafios, gosto de aprender e aplicar ferramentas de diversas áreas, em busca de soluções para resolver problemas.",
+    "Geek de carteirinha, fã de cultura POP, amo animais."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Desenvolvedora Front-End",
+      "empresa": "GAMA Gestão Criativa",
+      "periodo": "Mar/2020 a Dez/2020",
+      "atividades_desenvolvidas": "Criação de sites: Landing Page (página única), sites responsivos PWA, otimização de sites SEO - conjunto de técnicas responsáveis pela melhoria do posicionamento de páginas nos resultados dos buscadores (Google, Yahoo, Live Search, etc.).",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Desenvolvedora web",
+      "empresa": "Engajafro",
+      "periodo": "Set/2020",
+      "atividades_desenvolvidas": "Construir o site utilizando as tecnologias ReactJS, Gatsby, GraphQL, PWA e SEO, fazer o deploy da aplicação utilizando Netlify.",
+      "link": "https://www.engajafro.com.br/"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "HTML, CSS e Javascript para Desenvolvedores Web",
+      "instituicao": "Coursera/Johns Hopkins University",
+      "periodo": "Abr/2020",
+      "resumo_conhecimentos_aprendidos": "Criação de sites em HTML, Javascript, CSS e responsividade."
+    },
+    {
+      "curso": "Desenvolvimento Back-End",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Git/GitHub, Javascript, Node.js, Métodos HTTP, API REST, MongoDB."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Conceitos básicos de Node.js, ReactJS, React Native",
+      "instituicao": "Rocketseat",
+      "resumo_conhecimentos_interesses": "Conceitos básicos de Node.js, React.js e React Native."
+    },
+    {
+      "interesse_evento_curso": "Git e GitHub",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Introdução ao GitHub e comandos para trabalhar em equipe. Introdução ao Git e Controle de Versões. Criando um repositório para seus projetos inovadores."
+    },
+    {
+      "interesse_evento_curso": "Lógica de Programação com Javascript",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Lógica de programação com Javascript. Iniciando no front-end"
+    },
+    {
+      "interesse_evento_curso": "Lógica de programação essencial",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Lógica de programação é a forma como o desenvolvedor entende a comunicação a fim de programar uma função de um programa."
+    },
+    {
+      "interesse_evento_curso": "Desmistificando map, filter e reduce",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Quando utilizar map, filter e reduce em JavaScript."
+    },
+    {
+      "interesse_evento_curso": "Entendendo Promises",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Padrão Promises e entender como funciona todo o fluxo assíncrono de funções em Javascript!"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE.JS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "EXPRESS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "GATSBY",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "REACTJS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "NEXT.JS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GRAPHQL",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "REACT NATIVE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "PWA",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "SEO",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "POSTGRESQL",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "DOCKER",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "TYPESCRIPT",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "SHELL",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "LINUX",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "VISUAL STUDIO CODE",
+      "pontuacao": 9
+    }
+  ]
+}

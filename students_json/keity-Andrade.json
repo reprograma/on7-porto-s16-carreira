@@ -1,0 +1,84 @@
+{
+  "nome_completo": "Keity Sarah Andrade da Silva",
+  "o_que_eu_quero": "Busco minha primeira oportunidade em minha transição de carreira",
+  "cidade_estado:": "Olinda/PE",
+  "link_linkedin": "https://www.linkedin.com/in/keity-andrade/",
+  "link_github": "https://github.com/Keityandrade",
+  "email": "keitysandrade@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Busco minha primeira experiencia na área de tecnologia. Em transição de carreira, sou formada em administração e negócios pela uninassau, especialista em gestão de contabilidade e finanças empresariais, agora curso a Reprograma, participando do bootcamp voltado para back and",
+    "Atualmente trabalho como tutora de gestão financeira no EAD do grupo ser educacional, direcionando os discentes, desenvolvendo ações educativas e produções pedagógicas."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Tutora em EAD",
+      "empresa": "Grupo Ser Educacional",
+      "periodo": "Jun/2018 a atualmente",
+      "atividades_desenvolvidas": "Direcionamento de conteúdo aos discentes, Produção pedagógica, Desenvolvimento de ações educativas",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Checking",
+      "empresa": "Agência BG9",
+      "periodo": "Out/2016 a Jan/2018",
+      "atividades_desenvolvidas": "Controle de processos de faturamento de contas públicas e privadas, Vivência no detalhamento de mídia e produção",
+      "link": null    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Administração e negócios",
+      "instituicao": "UNINASSAU",
+      "periodo": "Jan/2008 a Jan/2011",
+      "resumo_conhecimentos_aprendidos": ""
+    },
+    {
+      "curso": "Backand - Turma do Porto digital",
+      "instituicao": "Reprograma",
+      "periodo": "Jun/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": ""
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso online de FullStack",
+      "instituicao": "Digital Innovation",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a fullStack"
+    },
+    {
+      "interesse_evento_curso": "Curso Mongo para iniciantes",
+      "instituicao": "Dani Academy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a utilização do banco de dados NoSQL mais utilizados no mundo"
+    }
+  ],
+  
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "GitHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "Javascript",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Node.js",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "API Rest",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MongoDB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 2
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 1
+    }
+  ]
+}

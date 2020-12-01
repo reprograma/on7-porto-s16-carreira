@@ -1,0 +1,106 @@
+{
+  "nome_completo": "Mariana Vieira do Nascimento Souza",
+  "o_que_eu_quero": "Tenho como objetivo trabalhar com tecnologias voltadas para Back-end, de acordo com o curso que concluí recentemente, e ampliar meus conhecimentos em front-end, infraestrutura e entrega contínua.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/marianavns/",
+  "link_github": "https://github.com/marianavns",
+  "email": "mariana.vns@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou desenvolvedora back-end formada em 2020 pela instituição Reprograma e graduada em Administração de Empresas pela UFPE.",
+    "Tenho cinco anos de experiência na área administrativa, sendo dois deles com sistemas digitais de licitações e três anos em tratamento de dados estatísticos empresariais do estado de Pernambuco.",
+    "Aprender, aplicar e transmitir conhecimento é o que me motiva todos os dias, além de podcasts e exercícios ao ar livre."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Agente de Pesquisa e Mapeamento",
+      "empresa": "IBGE",
+      "periodo": "Abr/2017 a Abril/2020",
+      "atividades_desenvolvidas": "Levantamento e tratamento de dados empresariais para as Pesquisas Estrutural e Conjuntural do IBGE Nacional. Formulação de relatórios estatísticos e administrativos em parceriacolaboração direta com a chefia da agência em Recife.",
+      "link": "https://www.ibge.gov.br/"
+    },
+    {
+      "cargo_funcao": "Compradora",
+      "empresa": "Fundação de Apoio à UFPE - FADE",
+      "periodo": "Mar/2013 a Maio/2015",
+      "atividades_desenvolvidas": "Abertura e acompanhamento de processos de compra direta, contratação direta e inexigibilidade de licitação, além de composição de processos licitatórios como pregão e tomada de preços para projetos da Universidade Federal de Pernambuco.",
+      "link": "https://fade.org.br/"
+    },
+    {
+      "cargo_funcao": "Instrutora de Matemática",
+      "empresa": "Projeto Mais Educação - Escola Medalha Milagrosa",
+      "periodo": "Mar/2010 a Dez/2010",
+      "atividades_desenvolvidas": "Aulas de Matemática básica para crianças de 5 a 12 anos no projeto de educação integral.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvimento Web Back-End",
+      "instituicao": "Reprograma",
+      "periodo": "Agosto/2020 a Dezembro/2020",
+      "resumo_conhecimentos_aprendidos": "Versionamento de códigos, Javascript, Node.js, HTTP, desenvolvimento de API REST integrada a banco de dados MongoDB.",
+      "link": "https://www.reprograma.com.br/back_end_minas.html"
+    },
+    {
+      "curso": "Bacharelado em Administração de Empresas",
+      "instituicao": "Universidade Federal de Pernambuco",
+      "periodo": "Fev/2012 a Jul/2016",
+      "resumo_conhecimentos_aprendidos": "Gestão de Pessoas, Inovação e Tecnologia, Marketing, Finanças, Contabilidade, Tecnologia da Informação, Operações, Controle de Qualidade, Logística Empresarial e Administração Estratégica.",
+      "link": "https://www.ufpe.br/documents/456807/0/administracao_perfil_1608.pdf/4c7ad388-4c1e-4dee-a855-60d540c5cde7"
+    },
+    {
+      "curso": "Técnico em Eletrônica",
+      "instituicao": "SENAI - Areias",
+      "periodo": "Fev/2005 a Nov/2006",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento e manutenção de circuitos eletrônicos e execução de instalações elétricas.",
+      "link": null
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso de Git e Github: Controle e compartilhe seu código",
+      "instituicao": "Alura Cursos Online",
+      "resumo_conhecimentos_interesses": "Entendimento sobre sistema de controle de versão, resolução de merges e conflitos e trabalho com diferentes branches."
+    },
+    {
+      "interesse_evento_curso": "Curso HTML5 e CSS3: A primeira página da Web",
+      "instituicao": "Alura Cursos Online",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a estrutura básica de um arquivo HTML, como inspecionar elementos, definir de estilos com CSS e desenvolver de uma página Web."
+    },
+    {
+      "interesse_evento_curso": "Redes: Introdução, Conceitos e Prática",
+      "instituicao": "Alura Cursos Online",
+      "resumo_conhecimentos_interesses": "Entendimento sobre Hub, Switch, Roteador, DHCP, DNS e IP. Utilização do programa de simulação de redes Packet Tracer."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "GitHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "Javascript",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Node.js",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "API Rest",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MongoDB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 6
+    }
+  ]
+}

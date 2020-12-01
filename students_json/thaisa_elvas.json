@@ -1,0 +1,106 @@
+{
+  "nome_completo": "Thaísa Magalhães Elvas",
+  "o_que_eu_quero": "Trabalhar como desenvolvedora Back-End ou Front-End e futuramente ser uma profissional Fullstack referência no que faço",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/thaisa-elvas/",
+  "link_github": "https://github.com/elvasthaisa",
+  "email": "thaisaelvas@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou estudante de Desenvolvimento Back-End na Reprograma, graduanda em Engenharia Química na UFPE e amante da área de tecnologia e inovação, tendo trabalhado quase 1 ano na In Loco, o que me fez amar ainda mais o mundo de TI.",
+    "Durante a pandemia, intensifiquei meus estudos na área de desenvolvimento Front-End e me tornei voluntária na WWCode Recife, organização que tem como objetivo incentivar a entrada de mulheres no mercado de TI, onde participei como lead front-end em um grupo de estudos internamente.",
+    "Posso dizer que sou uma pessoa inconformada, pois busco aprender sempre e sentir que estou evoluindo. Assim, sempre recorro à leitura de bons livros, vídeos e cursos de qualidade para interesses pessoais ou profissionais."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Analista de Qualidade",
+      "empresa": "In Loco",
+      "periodo": "Ago/2019 a Mai/2020",
+      "atividades_desenvolvidas": "Tratamento da base de dados da empresa por meio da análise de informações e distribuição de dados de forma integrada com outras equipes.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Vice-Representante do Núcleo Recife",
+      "empresa": "Fundação Estudar",
+      "periodo": "Abr/2019 a Fev/2020",
+      "atividades_desenvolvidas": "Responsável pelo desenvolvimento e engajamento da rede de alumni dos cursos da Fundação Estudar em Pernambuco junto ao Representante Geral. Organizadora e co-idealizadora do Conferência Núcleo na Prática, com objetivo de preparar jovens para entrevistas de emprego.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Bootcamp Back-End",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Lógica de programação, JavaScript, NodeJS, Versionamento de código (Git), API Rest, Banco de dados não-relacional, Autorização/Autenticação, Heroku"
+    },
+    {
+      "curso": "Engenharia Química",
+      "instituicao": "Universidade Federal de Pernambuco",
+      "periodo": "Fev/2017 a Dez/2021",
+      "resumo_conhecimentos_aprendidos": "Cálculos I ao IV, Introdução à linguagem C, além de entendimento sobre computação eletrônica na engenharia química, onde estudei VBA e MATLAB."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Formação Oracle ONE: Front-End",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Entendimento sobre HTML5, CSS3, JavaScript e Web Responsividade."
+    },
+    {
+      "interesse_evento_curso": "Formação Oracle ONE: Empreendedorismo",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Entendimento sobre o Business Model Canvas, desenvolvimento de produto e Lean Startup."
+    },
+    {
+      "interesse_evento_curso": "Inteligência Emocional",
+      "instituicao": "Fundação Estudar",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a própria capacidade de automotivação e como viver com uma vida mais equilibrada com meus sentimentos mesmo em momentos de estresse."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "API REST",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "FIGMA",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "DESIGN THINKING",
+      "pontuacao": 6
+    }
+  ]
+}

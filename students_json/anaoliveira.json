@@ -1,0 +1,89 @@
+{
+    "nome_completo": "Ana Paula de Oliveira ",
+    "o_que_eu_quero": "Ser uma profissional a qual eu possa me orgulhar.",
+    "cidade_estado:": "Recife/PE",
+    "link_linkedin": "https://www.linkedin.com/in/anna-oliveira-0602/",
+    "link_github": "https://github.com/anap-oliveira",
+    "email": "paula.apx@gmail.com",
+    "um_pouco_sobre_mim": [
+      "Sou de Recife, tenho 35 anos e estou sempre em constante aprendizado a fim de conseguir atingir meus objetivos. um pouco sobre você",
+      "Sou formada em Redes de Computadores e atualmente estou descobrindo o mundo do desenvilvimento de software na área de back-end. Aqui é outro parágrafo falando sobre sua trajetória",
+      "Em meio a trabahos e estudos, gosto de uma boa leitura, uma música bem Mpb e quando possível viajar para bons lugares.Nesse aqui você pode dizer o que você curte fazer"
+      ],
+    "no_que_ja_trabalhei": [
+      {
+        "cargo_funcao": "Analista de Sistemas",
+        "empresa": "Accenture",
+        "periodo": "Jul/2019 a Set/2019",
+        "atividades_desenvolvidas": "Desenvolvimento de micro serviços e integrações para a remodelagem de um sistema web usando java",
+        "link": null
+      },
+      {
+        "cargo_funcao": "Assistente Comercial",
+        "empresa": "Livre Promotora",
+        "periodo": "Jan/2017 a Jul/2019",
+        "atividades_desenvolvidas": "Acompanhamento de contratos e captação de novos clientes no setor de empréstimos consignados.",
+        "link": null
+      }
+    ],
+    "o_que_ja_estudei": [
+      {
+        "curso": "Graduação em Redes de Computadores",
+        "instituicao": "IPESU - Instituto Pernambucano de Ensino Superio",
+        "periodo": "Ago/2016 a Dez/2018",
+        "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      },
+      {
+        "curso": "Academia Java",
+        "instituicao": "Accenture",
+        "periodo": "Mai/2019 a Jun/2019",
+        "resumo_conhecimentos_aprendidos": "Conceitos introdutórios a linguagem Java."
+      },
+      
+      {
+        "curso": "BootCamp Back-end",
+        "instituicao": "Reprograma",
+        "periodo": "Ago/2020 a Dez/20",
+        "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "Curso online de Front-end",
+        "instituicao": "PrograMaria",
+        "resumo_conhecimentos_interesses": "Criação, edição e conteúdo de site utilizando as linguagens CSS, HTML e JavaScript."
+      },
+      {
+        "interesse_evento_curso": "Curso Online de Lógica de Programação",
+        "instituicao": "Digital Innovation One",
+        "resumo_conhecimentos_interesses": "Introdução a Lógica de Programação"
+      }
+    ],
+    "no_que_me_destaco": [
+      {
+        "habilidade_ferramenta": "JAVASCRIPT",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "CSS",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "HTML",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "MongoDB",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "NODEJS",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB",
+        "pontuacao": 7
+      }
+    ]
+  }
+  

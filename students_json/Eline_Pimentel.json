@@ -1,0 +1,129 @@
+{
+  "nome_completo": "Eline Silva de Paula Pimentel",
+  "o_que_eu_quero": "Quero trabalhar como Desenvolvedora Back-End e colocar em prática o que aprendi no curso récem finalizado. Anseio continuar crescendo na área de tecnologia, aprimorando meus conhecimentos como estudar Front-End e novas linguagens.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/eline-silva-de-paula-pimentel/",
+  "link_github": "https://github.com/eline-create",
+  "email": "eline.geo@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Busco superar a mim e não desisto dos meus objetivos no primeiro obstáculo. Sigo ciente de que sou minha maior concorrente. Sou empática e proativa. Relaciono-me com facilidade em grupos e tenho vontade de aprender.",
+    "Durante muito tempo quis ser professora universitária. Neste caminho conheci a área pública e decidi seguir na área de concursos, pensando em unir a Geografia e a Educação. Foi quando assumi um cargo como temporária no IBGE, me deparei com a tecnologia, através do Geoprocessamento e acesso a Banco de Dados. Após finalização do contrato e posterior pandemia, surgiu a oportunidade de cursar Desenvolvimento Web, decidi então, migrar de área.",
+    "Gosto de criar coisas e de saber de tudo um pouco, desde como consertar um buraco na parede, como cortar os próprios cabelos ou até que óleo essencial serve para dores de cabeça. Ler sempre foi uma paixão, mas não deixo de lado um bom filme sobre ficção cinetífica."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Agente de Pesquisa Administrativo",
+      "empresa": "Instituto Brasileiro de Geografia e Estatística - IBGE",
+      "periodo": "Abr/2017 a Out/2019",
+      "atividades_desenvolvidas": "Desempenhei atividades administrativas e técnicas, como atualização de mapas dos setores censitários de todo estado de Pernambuco; Auxílio administrativo à Coordenação Estadual de Cadastros de Endereços; Gerenciamento da equipe e setores a serem atualizados; Suporte na realização de treinamento de equipe; Contato com as demais agências do IBGE no estado; Além de Pesquisas econômicas com empresas, entrando em contato com as mesmas ou visitando.",
+      "link": "https://www.ibge.gov.br/"
+    },
+    {
+      "cargo_funcao": "Professora-Pesquisadora Bolsista",
+      "empresa": "Instituto Federal de Pernambuco/IFPE",
+      "periodo": "Out/2013 a Abr/2017",
+      "atividades_desenvolvidas": "Exerci atividades administrativas e pedagógicas; Atuei junto ao setor de Orçamento, solicitanto diárias e passagens para atividades pedagógicas a distância, através do sistema SCDP/SIAPI; Assessoria a Direção da Educação a Distancia; Fiz parte de comissão organizadora de processos seletivos para Professores Formadores e Tutores; Coordenadora de Tutoria do Curso Técnico em Manutenção Automotiva; Coordenadora Integrada de Tutoria Presencial e Coordenadores de Polo, articulava os tutores presenciais e coordenadores de polos de Educação à Distância com as coordenações de cursos situadas na sede da Diretoria da Educação à Distância.",
+      "link": "https://portal.ifpe.edu.br/campus/ead"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Bacharelado em Geografia",
+      "instituicao": "Universidade Federal de Pernambuco - UFPE",
+      "periodo": "Abr/2014 a Mar/2018",
+      "resumo_conhecimentos_aprendidos": "Trabalho em Equipe, planejamento, visão holística, auto gestão e dedicação."
+    },
+    {
+      "curso": "Especialização em Gestão Ambiental",
+      "instituicao": "Faculdade de Ciências Humanas - ESUDA",
+      "periodo": "Jan/2015 a Dez/2015",
+      "resumo_conhecimentos_aprendidos": "Pesquisa, adaptação, estudo focado, auto gerenciamento."
+    },
+    {
+      "curso": "Mestrado em Geografia",
+      "instituicao": "Universidade Federal de Pernambuco - UFPE",
+      "periodo": "Jan/2010 a Jan/2012",
+      "resumo_conhecimentos_aprendidos": "Pesquisa, escrita dissertativa com o desenvolvimento de projetos, planejamento, auto gestão, adaptação e auto controle.  "
+    },
+    {
+      "curso": "Desenvolvimento Web Back-End",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento web, lógica de programação, Banco de Dados NoSQL (MongoDB), JavaScript, Node.JS, Versionamento de Projetos(Git/GitHub), Shell script, Express.Js, Autenticação/Autorização."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Diálogo Aberto sobre Ética na IA ",
+      "instituicao": "Université de Montréal",
+      "resumo_conhecimentos_interesses": "Discussão e breve análise das recomendações ou demandas, por continente, sobre a Inteligência Artificial ao Relatório da UNESCO. Link para o relatório:(https://unesdoc.unesco.org/ark:/48223/pf0000373434) ."
+    },
+    {
+      "interesse_evento_curso": "Lógica de Programação",
+      "instituicao": "Digital Innovation One Inc.",
+      "resumo_conhecimentos_interesses": "Usando o Portugol, entender manejo de array, construcção de calculadora, conceitos básicos de programação e a lógica da linguagem de baixo e alto nível."
+    },
+    {
+      "interesse_evento_curso": "Programação para Internet com HTML5 e CSS3",
+      "instituicao": "Digital Innovation One Inc.",
+      "resumo_conhecimentos_interesses": "Fazendo uma página pessoal de internet e configuração básica com o CSS."
+    },
+    {
+      "interesse_evento_curso": "Introdução ao GitHub e comandos para trabalhar em equipe",
+      "instituicao": "Digital Innovation One Inc.",
+      "resumo_conhecimentos_interesses": "Conhecimento sobre comandos do Git e GitHub, controle de versões e trabalho em equipe."
+    },
+    {
+      "interesse_evento_curso": "Hacktober Fest",
+      "instituicao": "Whomen Who Code - Recife/PE",
+      "resumo_conhecimentos_interesses": "Contribuição em projeto open source, geração de pull request(PR) com várias pessoas, experiência de ver as diferentes modificações serem unidas ao projeto original."
+    },
+    {
+      "interesse_evento_curso": "Trilha JavaScript e Node.JS",
+      "instituicao": "The Developer's Conference Online 2020",
+      "resumo_conhecimentos_interesses": "Entendimento sobre sintaxe do JavaScript, Chatbot no WhatsApp, Algoritmos de Criptografia, Sites Seguros, API Gateway, Governança de API, API Restfull, Status Code."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "EXPRESS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 1
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MONGO DB",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "API REST",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PYTHON",
+      "pontuacao": 2
+    }
+  ]
+}

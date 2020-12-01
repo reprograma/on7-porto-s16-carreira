@@ -1,0 +1,96 @@
+{
+  "nome_completo": "Tairine Ellen da Silva Freitas",
+  "o_que_eu_quero": "Quero me inserir no mercado de tecnologia trabalhando como desenvolvedora back-end.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/tairineellen/",
+  "link_github": "https://github.com/TairineEllen",
+  "email": "tairine.ellen@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Desenvolvedora web com foco em backend. Estou sempre em busca de aprimorar conhecimentos e habilidades através de cursos, projetos e muita vontade de aprender."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Estagiária",
+      "empresa": "Acumuladores Moura S/A",
+      "periodo": "Mai/2015 a Nov/2015",
+      "atividades_desenvolvidas": "Realização e acompanhamento de análises químicas, organização e administração geral do laboratório químico."
+    }    
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvimento back-end com Noje.js e MongoDB",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "JavaScript/Node.js, criação de APIs, autenticação JWT e banco de dados MongoDB"
+    },
+    {
+      "curso": "Mestrado em Processos e Sistemas Térmicos",
+      "instituicao": "Universidade Federal de Pernambuco",
+      "periodo": "Mar/2018 até o momento"
+    },
+    {
+      "curso": "Bacharelado em Engenharia Química",
+      "instituicao": "Universidade Federal de Campina Grande",
+      "periodo": "Mar/2010 a Dez/2015"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Introdução ao JavaScript",
+      "instituicao": "Fundação Bradesco",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+    },
+    {
+      "interesse_evento_curso": "Introdução a Programação Orientada a Objetos",
+      "instituicao": "Fundação Bradesco",
+      "resumo_conhecimentos_interesses": "Conceitos básicos de programação orientada a objetos"
+    },
+    {
+      "interesse_evento_curso": "Projetos Ágeis com SCRUM",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Conceitos básicos de metodologias ágeis"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+      {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PYTHON",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "NODEJS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "SQL",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 6
+    }
+  ]
+}

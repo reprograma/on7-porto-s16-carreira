@@ -1,0 +1,107 @@
+{
+  "nome_completo": "Priscila Estevão da Cunha",
+  "o_que_eu_quero": "Desejo me tornar uma Desenvolvedora Fullstack e contribuir em projetos sociais que integrem comunidades periféricas à tecnologia",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/priestevao/",
+  "link_github": "https://github.com/priscilaestevao",
+  "email": "pris.estevao@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Paraibana morando em Recife há 4 anos, apaixonada pela cultura dessa cidade, principalmente coco de roda e maracatu",
+    "Relações Públicas, atualmente trabalhando como Gestora Pública e em transição de carreira para a área da Tecnologia",
+    "O que mais gosto de fazer na vida é viajar e conhecer outros lugares, culturas e pessoas",
+    "Também possuo experiência na área da Comunicação e Inovação, com ênfase em Comunicação Dirigida, Design Gráfico e Gestão Organizacional, tanto trabalhando em organizações como Freelancer"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Designer",
+      "empresa": "Niara Comunicação (MEI)",
+      "periodo": "Jul/2020 até o momento",
+      "atividades_desenvolvidas": "Consultoria em Comunicação e Design gráfico",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Gestora de Políticas Públicas de Juventude",
+      "empresa": "Prefeitura da Cidade do Recife",
+      "periodo": "Dez/2017 até o momento",
+      "atividades_desenvolvidas": "Responsável pelo setor de Articulação Social da Secretaria Executiva de Juventude e desenvolvimento dos produtos de comunicação dirigida, de relacionamento e conteúdo para as redes sociais",
+      "link": "http://www2.recife.pe.gov.br/index.php"
+    },
+    {
+      "cargo_funcao": "Agente Local de Inovação",
+      "empresa": "Sebrae",
+      "periodo": "Out/2016 a Set/2017",
+      "atividades_desenvolvidas": "Acompanhamento do processo de inovação em Empresas de Pequeno Porte da Região Metropolitana de Recife, através da realização de diagnósticos e planos de ação empresariais",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Assistente de Comunicação",
+      "empresa": "Bamidelê Organização de Mulheres Negras",
+      "periodo": "Jul/2012 a Ago/2016",
+      "atividades_desenvolvidas": "Desenvolvimento de instrumentos de comunicação, social media e design. Também atuou na organização como educadora popular e assistente de projetos.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Bootcamp Back-end",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Lógica de programação, versionamento de código (git), JavaScript, NodeJS, MongoDB, autenticação/autorização"
+    },
+    {
+      "curso": "Lógica de programação essencial",
+      "instituicao": "Digital Inovation One",
+      "periodo": "Out/2020 a Out/2020",
+      "resumo_conhecimentos_aprendidos": "Algoritmos como uma sequência de passos bem estabelecidos"
+    },
+    {
+      "curso": "Introdução ao GIT e ao GitHub",
+      "instituicao": "Digital Inovation One",
+      "periodo": "Out/2020 a Out/2020",
+      "resumo_conhecimentos_aprendidos": "Versionamento de código através do uso do git e hospedagem do repositório no GitHub"
+    },
+    {
+      "curso": "Fundamentos de arquitetura de sistemas",
+      "instituicao": "Digital Inovation One",
+      "periodo": "Nov/2020 a Nov/2020",
+      "resumo_conhecimentos_aprendidos": "Arquitetura de softwares"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Decola Dev Avanade",
+      "instituicao": "Digital Inovation One",
+      "resumo_conhecimentos_interesses": "Aceleração e programa de estágio da Avanade"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "JavaScript",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "NodeJS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "MongoDB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Git/GitHub",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "ExpressJS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "Figma",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CorelDraw",
+      "pontuacao": 9
+    }
+  ]
+}

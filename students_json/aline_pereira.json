@@ -1,0 +1,134 @@
+{
+  "nome_completo": "Aline Pereira da Silva Vieira",
+  "o_que_eu_quero": "Meu nome é Aline, sou Nutricionista e atualmente estou me dedicando a mudar de carreira como desenvolvedora Back-end 👩‍💻 Me dedico e estudo diariamente para entender um pouco mais das tecnologias do meu dia-a-dia.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/aline-pereira-70276161/",
+  "link_github": "https://github.com/Aline160",
+  "email": "aline.pereirasv2@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Meu nome é Aline Pereira, tenho 28 anos e sou do Recife. Sou uma pessoa proativa, criativa, dedicada, esforçada.  ",
+    "Atualmente trabalho como nutricionista e estou no 4 periodo do curso de Sistemas da informação na UNINASSAU",
+    "Gosto de Ler, pedalar, cinema, teatro, trilha, viajar, conhecer novas culturas, novos sabores.",
+    "Sou apaixonada pela vida"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": " Nutricionista",
+      "empresa": "Gran Nutriz",
+      "periodo": "Atualmente",
+      "atividades_desenvolvidas": "Acompanhamento do planejamento do cardápio, Avaliação qualitativa do cardápio entre outros",
+      "link": null
+    },
+    {
+      "cargo_funcao": " Supervisora de Nutrição",
+      "empresa": "Casa de Farinha",
+      "periodo": "Out/2016 a Abril/2019",
+      "atividades_desenvolvidas": "Gerenciamento de unidade em um hospital; gestão do refeitório; supervisão da área de produção; elaboração de check list e ficha técnica entre outros",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Voluntaria",
+      "empresa": "WWcode Recife",
+      "periodo": "Janeito de 2020 - Atualmente",
+      "atividades_desenvolvidas": "Ajudo na organização de açoes que o projeto desenvolve",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Coordenadora da area de jogos",
+      "empresa": "PDVT",
+      "periodo": "Julho de 2019 - Janeiro 2020",
+      "atividades_desenvolvidas": "Organizava a criação de jogos de App para ser usado nas comunidades em visitas sociais.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Educadora para Adolescentes",
+      "empresa": "Assembléia",
+      "periodo": "Setembro de 2016 - Novembro 2018",
+      "atividades_desenvolvidas": "Organizava e dava palestras sobre temas sociais, criação de jogos educativos,",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Sistemas da Informação",
+      "instituicao": "UNINASSAU",
+      "periodo": "Jan/2019 a Dez/22",
+      "resumo_conhecimentos_aprendidos": "Visão geral sobre a area de Sistemas da Informação"
+    },
+    {
+      "curso": "Pos Graduação de Nutrição Clinica e Funcional",
+      "instituicao": "Faculdade dos Guararapes",
+      "periodo": "Jan/2018 a Dez/2018",
+      "resumo_conhecimentos_aprendidos": "Conhecimento na area de nutrição funcional"
+    },
+    {
+      "curso": "Nutrição",
+      "instituicao": "Universidade Federal de Pernambuco",
+      "periodo": "Jan/2009 a Dez/2013",
+      "resumo_conhecimentos_aprendidos": "Conhecimentos na area de Nutrição"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso online de Javascript",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+    },
+    {
+      "interesse_evento_curso": "Curso de HTML e CSS",
+      "instituicao": "We Can Code, Programa Maria",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintese de HTML e CSS"
+    },
+    {
+      "interesse_evento_curso": "Curso React Native",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Em andamento"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MYSQL",
+      "pontuacao": 7
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "nome_completo": "Monique Dália França Simões",
+  "o_que_eu_quero": "Desenvolver soluções desafiadoras que tragam benefício as pessoas",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/monique-sim%C3%B5es-408458117/",
+  "link_github": "https://github.com/mdfs2020",
+  "email": "moniquedalia0@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Há 5 anos atuando na área de Tecnologia, tive o privilégio de agregar boas experiências com suporte",
+    "qualidade e desenvolvimento de softwares.",
+    "Tenho procurado impactar positivamente a vida das pessoas com soluções que atendam às suas necessidades",
+    "e tragam valor ao negócio com uso da tecnologia.",
+    "A qualidade do meu trabalho é baseada no meu foco, proatividade e no bom relacionamento com as pessoas."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Desenvolvedora de Software",
+      "empresa": "MV Sistema",
+      "periodo": "Out/2020 à Data atual",
+      "atividades_desenvolvidas": [
+      "Desenvolvimento de soluções para a gestão da Saúde focada na melhoria da qualidade assistencial",
+      "na eficiência operacional e na segurança dos pacientes."
+      ],
+      "link": "http://mv.com.br"
+    },
+    {
+      "cargo_funcao": "Analista de Teste",
+      "empresa": "MV Sistema",
+      "periodo": "Jan/2019 a Set/2020",
+      "atividades_desenvolvidas": [
+      "Execução de testes de software em projetos internacionais para liberação de releases", 
+      "aprovando ou reprovando as ordens de produção, de correção de erro ou implementações",
+      "de novas funcionalidades."
+      ],
+      "link": "http://mv.com.br"
+    },
+    {
+      "cargo_funcao": "Analista de Suporte",
+      "empresa": "MV Sistema",
+      "periodo": "Mar/2016 a Dez/2018",
+      "atividades_desenvolvidas": [
+      "Suporte remoto ao cliente, garantindo o cumprimento dos requisitos de (SLA/ Nível de serviço )", 
+      "resolução das solicitações, orientação a processos , linguagem e consulta SQL e admistração",
+      "das plataformas de tecnologia em operação"
+      ],
+      "link": "http://mv.com.br"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "instituicao": "Universidade Estácio de Sá",
+      "periodo": "Dez/2020 a Jun/2022",
+      "resumo_conhecimentos_aprendidos": "Logíca de Programação, desenvolvimento com linguagens Java, Javascript, Phyton..."
+    },
+    {
+      "curso": "Curso de back-end à distância em parceria com o projeto M.I.N.A.S do Porto Digital",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Entendimento sobre a sintaxe básica do javascript e Node.js"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Scrum Foundation Professional Certificate",
+      "instituicao": "CertiProf",
+      "resumo_conhecimentos_interesses": "Metodologia ágil para gestão e planejamento de projetos de software."
+    },
+    {
+      "interesse_evento_curso": "Gerenciamento de Estoque",
+      "instituicao": "Universidade MV",
+      "resumo_conhecimentos_interesses": "Entendimento sobre todo o fluxo de Controle de Estoque"
+    },
+    {
+      "interesse_evento_curso": "Inglês",
+      "instituicao": "Wizard",
+      "resumo_conhecimentos_interesses": "Noções da lingua inglesa intermediário"
+    }
+
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "SQL",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "JIRA",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "HTML5",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVA",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "POSTMAN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 6
+    }
+  ]
+}

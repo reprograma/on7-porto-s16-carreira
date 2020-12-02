@@ -1,0 +1,122 @@
+{
+  "nome_completo": "Maria Luiza de França Duda",
+  "o_que_eu_quero": "Desejo agregar valor na empresa contratante, trabalhando como Desenvolvedora Back-End.",
+  "cidade_estado:": "Jaboatão dos Guararapes/PE",
+  "link_linkedin": "https://www.linkedin.com/in/maria-luiza-duda/",
+  "link_github": "https://github.com/maria-luiza-duda",
+  "email": "marialuizaduda00@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou Maria Luiza Duda, tenho 20 anos e estou cursando Licenciatura em Ciências Biológicas na UFPE.",
+    "Tive meu primeiro contato com a área de TI no ensino médio, mas por não acreditar no meu potencial na época, decidi cursar Biologia, outra paixão minha. No momento, estou buscando uma realocação profissional na área de Desenvolvimento de software.",
+    "Gosto de desenvolver e participar de projetos que tenham o próposito de melhorar a vida em sociedade, a partir da educação de qualidade, acesso a informação e tecnologias emergentes."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Estudante de Iniciação Científica",
+      "empresa": "Laboratório de Carcinologia - MOUFPE",
+      "periodo": "Jul/2018 a Jul/2020",
+      "atividades_desenvolvidas": "Aplicação de Tecnologias da Informação e Comunicação (TICs) durante visitas guiadas ao Museu de Oceanografia Prof. Petrônio Alves Coelho.",
+      "link": "https://www.ufpe.br/moufpe"
+    },
+    {
+      "cargo_funcao": "Voluntária Global - Intercambista AIESEC",
+      "empresa": "Aldeias infantiles - Sicaya/Perú",
+      "periodo": "Jan/2019 a Fev/2019",
+      "atividades_desenvolvidas": "Educação ambiental e divulgação científica para crianças de 7 a 14 anos.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Gerente de projetos de inovação",
+      "empresa": "Speratus - Empresa Júnior",
+      "periodo": "Abr/2017 a Jan/2018",
+      "atividades_desenvolvidas": "Educação ambiental e divulgação científica para crianças de 7 a 14 anos.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Voluntária em mídias sociais",
+      "empresa": "Centro de Inovação da Microsoft - MICETEPAM",
+      "periodo": "Set/2015 a Abr/2016",
+      "atividades_desenvolvidas": "Atualização do site institucional do MICETEPAM. Criação de conteúdo.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvedora Backend",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Javascript, git, github, NodeJS e banco de dados MongoDB"
+    },
+    {
+      "curso": "Eu ProgrAmo",
+      "instituicao": "Progra{m}aria",
+      "periodo": "Jul/2020 a Ago/2020",
+      "resumo_conhecimentos_aprendidos": "Construção de sites com HTML 5 e CSS 3, conceitos introdutórios."
+    },
+    {
+      "curso": "Design de interiores",
+      "instituicao": "Escola Técnica Professor Agamemnom Magalhães",
+      "periodo": "Fev/2014 a Dez/2016",
+      "resumo_conhecimentos_aprendidos": "Curso técnico em Design de interiores."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "UI//UX Basics Experience & Prototype",
+      "instituicao": "Cellep Idiomas",
+      "resumo_conhecimentos_interesses": "Entendimento sobre conceitos introdutórios do UX e UI Design"
+    },
+    {
+      "interesse_evento_curso": "The Science of Well-Being",
+      "instituicao": "Yale University - Coursera",
+      "resumo_conhecimentos_interesses": "Entendimento sobre o bem-estar"
+    },
+    {
+      "interesse_evento_curso": "Scrum",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a metodologia ágil Scrum"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "SCRUM",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "PACOTE OFFICE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "REVIT",
+      "pontuacao": 7
+    }
+  ]
+}

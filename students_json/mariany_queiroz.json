@@ -1,0 +1,70 @@
+{
+  "nome_completo": "Mariany Queiroz",
+  "o_que_eu_quero": "Atuar na área de tecnologia, colocando em prática meus conhecimetos possibilitando um crescimento qualitativo e quantitativo para a instituição.",
+  "cidade_estado:": "Jaboatão dos Guararapes/PE",
+  "link_linkedin": "https://www.linkedin.com/in/marianyqueiroz/",
+  "link_github": "https://github.com/marianyqueiroz",
+  "email": "marianyqs@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou desenvolvedora back-end, assistente social de formação, ativista dos direitos humanos, feminista e pesquisadora no ambito do gênero e da tecnologia. ",
+    "Sou idealizadora do projeto XOXOCuida, voltado para políticas públicas de saúde LGBTQIA+, com ênfase nos corpos ovarianos. ",
+    "Amo fazer arte, criar projetos que causem impacto social, conhecer pessoas, ouvir uma boa música e fazer carinho em gatos! "
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Educador Social",
+      "empresa": "Prefeitura de Olinda",
+      "periodo": "Jan/2019 a Jun/2019",
+      "atividades_desenvolvidas": "Estágio extracurrícular, voltado para implementação do Programa Criaça Feliz, que possui um recorte voltado para ciranças de 0 a 4 anos, ou crianças PCD de 0 a 6 inclusão e gestantes. O intuíto era levar atividades que estivessem voltadas para o desenvolvimento motor e social das crianças, etreitando os laços famíliares. Atuando também no mapeamento de famílias em estado de vulnerabilidade social, que não estavam inclusas no CadÚnico.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Projeto Voluntário",
+      "empresa": "Grupo Mulheres do Brasil",
+      "periodo": "Abr/2017 a Out/2018",
+      "atividades_desenvolvidas": "Posts para as redes sociais, ideação de eventos e movimentos para capacitar e empoderar meninas e mulheres.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Serviço Social",
+      "instituicao": "UNIFG",
+      "periodo": "Jan/2017 a Jun/2020",
+      "resumo_conhecimentos_aprendidos": "Ideação, planejamento, pesquisa, trabalho em equipe e levantamento de indicadores."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Back-end",
+      "instituicao": "Reprograma",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe do javascript, NodeJS, mongoDB e API Rest."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 9
+    }
+  ]
+}

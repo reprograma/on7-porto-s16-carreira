@@ -1,0 +1,121 @@
+{
+    "nome_completo": "Mayara Santos de Siqueira",
+    "o_que_eu_quero": "Atuar como Desenvolvedor (a) Back end, sempre em busca de conhecimentos, para aprimorar minhas habilidades, buscando através de cursos, projetos e muita vontade de aprender para atingir meu objetivo",
+    "cidade_estado:": "Olinda/PE",
+    "link_linkedin": "https://www.linkedin.com/in/may-siqueira/",
+    "link_github": "https://github.com/maaysiq",
+    "email": "maay.siqueiraa@gmail.com",
+    "um_pouco_sobre_mim": [
+      "Sou uma mulher determinada, sonhadora que luto para alcançar meus objetivos. Sou extrovertida, proativa, comunicativa",
+      "Na minha jornada profissional tenho experiencias no ramo da construção Civil, como Aprendiz de Tec em Edificações e Fiscal de Obras, no ramo da industria, como Estagiaria de Tec em Quimíca, e no ramo da Tecnologia da Informação, como Consultora de sistema hospitalar.",
+      "Gosto muito de ouvir música e me desconetar um pouco do mundo, prezo por está com as pessoas que gosto e me fazem bem."
+    ],
+    "no_que_ja_trabalhei": [
+      {
+        "cargo_funcao": "Consultor Júnior",
+        "empresa": "MV",
+        "periodo": "Dez/2017 até o momento",
+        "atividades_desenvolvidas": "- Análise de processos e propostas de soluções; Participação em diferentes projetos de TI; Implantação e consultoria do sistema SOUL MV em diversos hospitais atuando na área de Suprimentos, como o setor de compras, almoxarifado e farmácia; Realizando treinamentos operacionais e suportes aos usuários finais, como por exemplo: Solicitar compra de um determinado produto, fazer cotação desse produto, da entrada de nota fiscal,fazer dispensação de produtos para paciente/setor entre outras funções.",
+        "link": null
+      },
+      {
+        "cargo_funcao": "Fiscal de Obras",
+        "empresa": "Engeconsult Consultores Técnicos Ltda.",
+        "periodo": "Mai/2014 a Set/2015",
+        "atividades_desenvolvidas": "Fiscalização na área de infraestrutura, urbanização e edificações, Medições, levantamentos, cronogramas e relatórios técnicos de Obras da Prefeitura do Recife (Proest) e da Compensa de Surubim.",
+        "link": ""
+      }
+    ],
+    "o_que_ja_estudei": [
+        
+      {
+        "curso": "Analises e Desenvolvimento de Sistema",
+        "instituicao": "FACULDADE ESTÁCIO DE SÁ",
+        "periodo": "Mar/2019 a Jun/2021",
+        "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      },
+      {
+        "curso": "Desenvolvimento Web Back-End",
+        "instituicao": "Reprograma",
+        "periodo": "Ago/2020 a Dez/2020",
+        "resumo_conhecimentos_aprendidos": "Desenvolvimento web, lógica de programação, Banco de Dados NoSQL (MongoDB), JavaScript, Node.JS, Versionamento de Projetos(Git/GitHub), Shell script, Express.Js, Autenticação/Autorização."
+      },
+      {
+        "curso": "Tecnico em Edificações",
+        "instituicao": "Escola Tecnica Professor Agamemnon Magalhães",
+        "periodo": "Ago/2012 a Ago/2014",
+        "resumo_conhecimentos_aprendidos": "Elaboração de cronogramas e orçamentos; Planejamento dos materiais necessários na obra (quais materiais, em que quantidade, quando devem ser entregues, etc.); Receber e verificar os materiais; Aplicação de testes de qualidade nos materiais de construção;Definir a equipe de trabalho (quantos funcionários em cada função);Coordenar a equipe, visando uma maior produtividade para evitar atrasos na obra;Aplicar as normas técnicas de saúde, segurança, higiene e meio ambiente na obra;Executar levantamentos topográficos e demarcações de terrenos; Supervisionar as etapas de uma obra."
+      },
+      {
+        "curso": "Tecnico em Química Industrial",
+        "instituicao": "Escola Tecnica Professor Agamemnon Magalhães",
+        "periodo": "Ago/2015 a Ago/2017",
+        "resumo_conhecimentos_aprendidos": "Realiza análise química quantitativa e qualitativa, mede PH e analisa organismos microbiológicos, matéria-prima e produtos finais na indústria. Participa do desenvolvimento de testes e ensaios com materiais e processos físico-químicos diversos."
+      }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "DESENVOLVIMENTO BACK-END COM NODE.JS",
+        "instituicao": "DIGITAL INNOVATION ONE",
+        "resumo_conhecimentos_interesses": "Entendimento sobre desenvolvimento com node.js"
+      },
+      {
+        "interesse_evento_curso": "Curso completo de Banco de dados e SQL",
+        "instituicao": "Udemy",
+        "resumo_conhecimentos_interesses": "Modelar a base de dados para qualquer sistema transacional; Programar em Banco de Dados; Realizar Backups e Restores dos seus Bancos de Dados; Aplicar Constraints de qualquer natureza em suas tabelas; Aplicar as Formas Normais; Criar Triggers, Procedures, Functions e Views;Escolher as funções nativas de qualquer banco de dados, de acordo com a sua necessidade"
+      },
+      {
+        "interesse_evento_curso": "Introdução a Linguagem HTML",
+        "instituicao": "Udemy",
+        "resumo_conhecimentos_interesses": "Compreender como um Website funciona; Aprender a linguagem HTML"
+      },
+      {
+        "interesse_evento_curso": "Introdução ao Git e Controle de Versões",
+        "instituicao": "DIGITAL INNOVATION ONE",
+        "resumo_conhecimentos_interesses": "Conhecimento sobre comandos do Git e GitHub e controle de versões"
+      }
+    ],
+    "no_que_me_destaco": [
+      {
+        "habilidade_ferramenta": "HTML",
+        "pontuacao": 3
+      },
+      {
+        "habilidade_ferramenta": "CSS",
+        "pontuacao": 3
+      },
+      {
+        "habilidade_ferramenta": "JAVASCRIPT",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "JQUERY",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "NODE",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "MONGO BD",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "API REST",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "JAVA",
+        "pontuacao": 3
+      },
+      
+      {
+        "habilidade_ferramenta": "SQL",
+        "pontuacao": 7
+      }
+    ]
+  }

@@ -1,0 +1,165 @@
+{
+    "nome_completo": "Elis Grace Batista da Silva Lages",
+    "o_que_eu_quero": "Busco uma oportunidade na área de desenvolvimento backend para colocar em prática o conhecimento já adquirido, além de continuar ampliando meus horizontes, fortalecendo o saber da linguagem em que desenvolvo e aprimorar também, meus conhecimentos em frontend e assim, alcançar a meta final como desenvolvedora FullStack",
+
+    "cidade_estado:": "Recife/PE",
+    "link_linkedin": "https://www.linkedin.com/in/elisgracelages/",
+    "link_github": "https://github.com/ElisLages",
+    "email": "elisgracelages@gmail.com",
+    "um_pouco_sobre_mim": [
+            "Sou graduanda do curso de Bacharelado em Administração de Empresas e estudante de backend e frontend. Nas horas vagas sou leitora, escritora, cantora, dançarina, apaixonada por forró e samba, entusiasta da arte de tocar ukulele e violão.  " 
+      
+    ],
+    "no_que_ja_trabalhei": [
+      {
+        "cargo_funcao": "Estagiária de Administração",
+        "empresa": "Secretaria de Desenvolvimento do Nordeste - SUDENE",
+        "periodo": "Nov/2019 - atual",
+        "atividades_desenvolvidas": "Controle e monitoramento de documentações e análise de cumprimento de projetos; contato com as prefeituras dos municípios participantes do projeto. ",
+        "link": "https://www.gov.br/sudene/pt-br"
+      },
+      {
+        "cargo_funcao": "Estagiária de Finanças",
+        "empresa": "Fundação Centro de Educação e Comunicação Social do Nordeste - CECOSNE",
+        "periodo": "Out/2018 a Jan/2019",
+        "atividades_desenvolvidas": "Auxiliar na entrada e saída de documentos; auxiliar no controle e preenchimento de planilhas financeiras; dar apoio no controle de estoque e almoxarifado; auxiliar na área administrativa e no setor comercial; gerar relatórios semanais de desempenho; auxiliar no envio e recebimento de e-mails; auxiliar na verificação de contratos dos voluntários; auxiliar na emissão de nota fiscal; intermediar a empresa com a contabilidade; auxiliar as demais atividades administrativas; ",
+        "link": "https://cecosne.org.br/"
+      },
+      {
+        "cargo_funcao": "Estagiária Administrativa",
+        "empresa": "Superintendência Regional da Polícia Federal de Pernambuco - SRPFPE ",
+        "periodo": "Set/2017 a Out/2018",
+        "atividades_desenvolvidas": "Auxiliar no controle de documentação interna e externa; alimentação de sistema de controle de processos; auxiliar na emissão de certidões;",
+        "link": "http://www.pf.gov.br/institucional/unidades/superintendencias-e-delegacias/pernambuco"
+      },
+      {
+        "cargo_funcao": "Trainee – Voluntário ",
+        "empresa": "Projetos Jr Consultoria – Empresa Júnior da Fafire",
+        "periodo": "Ago/2016 a Dez/2016",
+        "atividades_desenvolvidas": "Oferecer consultorias às empresas nas áreas: Marketing, Recursos Humanos e Financeiros. Idealizar e promover eventos para promoção da empresa.",
+        "link": "https://www.projetosjrconsultoria.com/"
+      },      
+      {
+        "cargo_funcao": "Secretária ",
+        "empresa": "Igreja Batista do Cordeiro  ",
+        "periodo": "Jun/2016 a Jul/2016 - (substituindo em férias)",
+        "atividades_desenvolvidas": "Realizar funções na área administrativa; Emissões de cheques; Organização de arquivos e protocolos. Digitação de documentos.  Agendamento. ",
+        "link": null
+      },      
+      {
+        "cargo_funcao": "Auxiliar Administrativa",
+        "empresa": "Dançar - Gledson Silva ",
+        "periodo": "Jan/2015 a Jun/2015",
+        "atividades_desenvolvidas": "Atendimento pessoal e telefônico. Prospecção de clientes/alunos. Pagamento de contas. Tesouraria. Manutenção do espaço físico.",
+        "link": null
+      },
+      {
+        "cargo_funcao": "Professora de Dança de Salão",
+        "empresa": "Art's Passos - Companhia de Dança",
+        "periodo": "Mar/2010 a Outubro/2014",
+        "atividades_desenvolvidas": "Dar aulas de dança de salão para turmas de jovens e da boa idade.",
+        "link": null
+      },
+      {
+        "cargo_funcao": "Professora de Teatro",
+        "empresa": "Escola Municipal Maria da Paz Brandão Alves",
+        "periodo": "Jan/2008 a Nov/2008",
+        "atividades_desenvolvidas": "Através de atividades lúdicas, estimular a leitura, literatura, expressão corporal e artística e criar um ambiente onde crianças e pré-adolescentes estivessem em constante aprendizado.",
+        "link": null
+      }                     
+    ],
+    "o_que_ja_estudei": [
+      {
+        "curso": "Bacharelado em Administração",
+        "instituicao": "Faculdade Frassinetti do Recife - FAFIRE",
+        "periodo": "Jul/2016 a Jul/2021",
+        "resumo_conhecimentos_aprendidos": "Gerenciamento de Projetos. Administração Financeira e Orçamentária. Gestão de Pessoas"
+      },
+      {
+        "curso": "Desenvolvimento Back-End",
+        "instituicao": "Reprograma - Minas Porto Digital",
+        "periodo": "Jul/2020 a Dez/2020",
+        "resumo_conhecimentos_aprendidos": "JavaScript, NodeJS, MongoDB, Git e Github, Heroku"
+      },
+      {
+        "curso": "Introdução ao Front-End",
+        "instituicao": "Programaria",
+        "periodo": "Ago/2020 a Set/2020",
+        "resumo_conhecimentos_aprendidos": "CCS, HTML, JavaScript e metodologias ágeis"
+      },
+      {
+        "curso": "Inglês",
+        "instituicao": "SENAC",
+        "periodo": "Fev/2011 - Dez/2011",
+        "resumo_conhecimentos_aprendidos": "Inglês Avançado. Escrita. Conversação."
+      }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "Curso online de Introdução à Gestão de Projetos ",
+        "instituicao": "Fundação Bradesco",
+        "resumo_conhecimentos_interesses": "Planejamento, Orçamento, Cronograma e execução de projetos"
+      },
+      {
+        "interesse_evento_curso": "Desing Thinking",
+        "instituicao": "SEBRAE",
+        "resumo_conhecimentos_interesses": "Encontrar soluções inovadoras para os problemas da empresa e soluções inovadoras para os clientes, entendendo suas necessidades e desejos. Criar novos produtos e serviços de valor.Desenvolver ferramentas e marcas."
+      },
+      {
+        "interesse_evento_curso": "Excel Avançado",
+        "instituicao": "Fudação Bradesco",
+        "resumo_conhecimentos_interesses": "Planilhas eletrônicas, automação de processos com Exel"
+      }
+    ],
+    "no_que_me_destaco": [
+      {
+        "habilidade_ferramenta": "HTML",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "CSS",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "JAVASCRIPT",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "NODE",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "HEROKU",
+        "pontuacao": 5
+      },
+      {
+        "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "RESPONSIVIDADE",
+        "pontuacao": 5
+      },
+      {
+        "habilidade_ferramenta": "MongoDB",
+        "pontuacao": 3
+      },
+      {
+        "habilidade_ferramenta": "ORATÓRIA",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "PACOTE OFFICE",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "BIZAGI",
+        "pontuacao": 8
+      }
+    ]
+  }
+  

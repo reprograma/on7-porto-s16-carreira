@@ -1,0 +1,85 @@
+{
+  "nome_completo": "Romanelli Karísia Pereira da Silva",
+  "o_que_eu_quero": "Usar tecnologia e inovação para contribuir, facilitar, melhorar a vida das pessoas.",
+  "cidade_estado:": "Recife/Pernambuco",
+  "link_linkedin": "https://www.linkedin.com/in/romanellipereira/",
+  "link_github": "https://github.com/romanellipereira",
+  "email": "romanelli.pereira@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou uma mulher independente, proativa, gosto muito de aprender coisas novas e sou motivada por desafios. Desde criança, sempre fui a nerd gamer caricata, e a vida, depois de muitas voltas, me trouxe de volta para a minha verdadeira paixão: a tecnologia.",
+    "Atuo há 1 ano na área de tecnologia como analista de requisitos, suporte de sistema e gerenciamento de projetos. Formada em Ciências Contábeis, durante por 8 anos adquiri experiência na área de contabilidade, tributos e auditoria.",
+    "Minhas maiores paixões são: estar com a minha familia, ler e viajar. No meu cotidiano, quando não estou estudando inglês ou tecnologias, estou ao lado minha mãe assistindo uma boa novela ou série ou jogando games com meu irmão."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Analista de Sistemas",
+      "empresa": "Grupo Dislub Equador",
+      "periodo": "Desde Set/2019",
+      "atividades_desenvolvidas": "Suporte de sistema ERP, analise de requisitos e gerenciamento de projetos.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Analista Contábil/Fiscal",
+      "empresa": "Grupo Dislub Equador",
+      "periodo": "Nov/2018 a Ago/2019",
+      "atividades_desenvolvidas": "Fechamento contábil/fiscal, apuração de tributos de tributos federais e estaduais, obrigações acessórias federais e estaduais.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Auditora de Controles Internos",
+      "empresa": "Grupo Ser Educacional",
+      "periodo": "Abr/2016 a Nov/2018",
+      "atividades_desenvolvidas": "Mapeamento de processos e implantação de controles e melhorias.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvimento back-end",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Git, GitHub, JavaScript, Node.JS, MongoDB, APIrest"
+    },
+    {
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "instituicao": "UNIT",
+      "periodo": "Ago/2019 a Jul/2021",
+      "resumo_conhecimentos_aprendidos": "Análise de requisitos, Sistemas Operacionais, Banco de Dados Relacional, Java, Orientaçao a Objeto."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Residência Unit",
+      "instituicao": "UNIT",
+      "resumo_conhecimentos_interesses": "Projeto de app educação online/Projeto de app recrutamento e seleção."
+    },
+    {
+      "interesse_evento_curso": "Curso Introdução a Python",
+      "instituicao": "Cursera",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica de Python"
+    },
+    {
+      "interesse_evento_curso": "Curso PL-SQL",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica da linguagem do banco de dados Oracle"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "PL-SQL",
+      "pontuacao": 6
+    }
+  ]
+}

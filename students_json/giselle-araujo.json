@@ -1,0 +1,108 @@
+{
+  "nome_completo": "Giselle Tereza Cunha de Araújo",
+  "o_que_eu_quero": "Upgrade na carreira, com a união do conhecimento de programação ao design gráfico e docência, visando novas oportunidades",
+  "cidade_estado:": "Camaragibe/PE",
+  "link_linkedin": "linkedin.com/in/giselletcaraujo",
+  "link_github": "https://github.com/giselletcaraujo",
+  "email": "giselletcaraujo@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Formada em Design Gráfico, estudante de Back-end na {reprograma}, com experiência docente em cursos técnicos de Desenvolvimento de Sistemas, Comunicação Visual e Design de Interiores.",
+    "Atuo como designer gráfico, sou MEI e tenho experiência na área com ênfase em design de impressos, editorial e design instrucional para objetos de aprendizagem (impressos e digitais) atuando em produção e gerenciamento de equipes."
+   ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Designer Gráfico",
+      "empresa": "Secretaria Executiva de Comunicação / PE",
+      "periodo": "Jan/2019 a data atual",
+      "atividades_desenvolvidas": "Faço parte do núcleo que dá suporte às secretarias e que coordena as atividades das agências de publicidade e comunicação digital.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Docente",
+      "empresa": "Secretaria de Educação do Estado de Pernambuco",
+      "periodo": "mar/2016 a jan/2019",
+      "atividades_desenvolvidas": "Professora de disciplinas especóficas dos cursos técnicos, além de empreendedorismo e inovação.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Docente",
+      "empresa": "ITEP - Instituto de Tecnologia de Pernambuco",
+      "periodo": "mar/2013 a abr/2017",
+      "atividades_desenvolvidas": "Professora no Centro Tecnológico de Cultura Digital, em disciplinas técnicas do curso de Comunicação Visual.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Programação Back-end",
+      "instituicao": "{reprograma}",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Programação back-end com JavaScript e Node.js."
+    },
+    { 
+      "curso": "Tecnologia em Design Gráfico",
+      "instituicao": "IFPE - Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco",
+      "periodo": "set/2007 a out/2009",
+      "resumo_conhecimentos_aprendidos": "Planejamento, execução e manutenção de projetos em sistemas de identidade visual, desenvolvimento de embalagem e tipográficos, além de websites e projetos multimídia, bem como diagramação de páginas analógicas e digitais."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Maratona Digital - Ideias em tempos de Covid-19",
+      "instituicao": "Unicef",
+      "resumo_conhecimentos_interesses": "Mentoria de projeto: Como garantir a aprendizagem de jovens em situação de vulnerabilidade social, em tempos de pandemia?"
+    },
+    {
+      "interesse_evento_curso": "Competências profissionais, emocionais e tecnológicas para tempos de mudança",
+      "instituicao": "PUCRS",
+      "resumo_conhecimentos_interesses": "Competências Profissionais: Estratégia, Produtividade, Liderança e Propósito; Competências Emocionais: Resiliência, Autonomia, Inteligência emocional e Empatia; Competências Tecnológicas: Conectividade, Adaptabilidade, Transformação Digital, Inovação e Cooperação."
+    },
+    {
+      "interesse_evento_curso": "Despertar - Curso de Educação Empreendedora",
+      "instituicao": "Sebrae",
+      "resumo_conhecimentos_interesses": "Formação para facilitadora de curso de educação empreendeora"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "TRABALHO EM EQUIPE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "COMUNICAÇÃO",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "TÉCNICAS CRIATIVAS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "ILLUSTRATOR E CORELDRAW",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PREMIERE E AFTER EFFECTS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "INDESIGN",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "API",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "NODE.JS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "GIT E GITHUB",
+      "pontuacao": 6
+    }
+  ]
+}

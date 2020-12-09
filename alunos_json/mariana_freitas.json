@@ -1,0 +1,87 @@
+{
+  "nome_completo": "Mariana Freitas de Azevedo",
+  "o_que_eu_quero": "Meu nome é Mariana, quero entrar no mercado de trabalho como desenvolvedora, pois me interesso muito pela aárea e dessa forma eu posso ajudar o mundo e as pessoas
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/mariana-freitas-b103541a4/",
+  "link_github": "https://github.com/marianafreitas13/",
+  "email": "azevedomarianafreitas@gmail.com",
+  "um_pouco_sobre_mim": [ "Meu nome é Mariana Freitas, tenho 16 anos e sou do Recife. Sou uma pessoa criativa, dedicada,atenciosa, esforçada. ", "Atualmente estudo desenvolvimento de software na ETE Porto Digital e faço parte da turma 7 de back-end da Reprograma", "Gosto de Ler, ir no cinema, no teatro, viajar, conhecer novas culturas.Amo robótica.", "Sou apaixonada pelo conhecimento" ],
+  "no_que_ja_trabalhei": [
+  ]
+  "o_que_ja_estudei": [
+  {
+    "curso": "desenvolvimento de software",
+    "instituicao": "ETE Porto Digital",
+    "periodo": "Fev/18 a Dez/20",
+    "resumo_conhecimentos_aprendidos": "desenvolvimento de aplicativos mobiles, "
+  },
+  {
+    "curso": "modelagem 3d",
+    "instituicao": "SAGA",
+    "periodo": "Mai/19 a Jun/19",
+    "resumo_conhecimentos_aprendidos": "Conhecimento de modelagem 3d"
+  },
+  {
+    "curso": "Analista de Dados Júnior",
+    "instituicao": "InLoco",
+    "periodo": "Jan/20 a Jan/20",
+    "resumo_conhecimentos_aprendidos": "análise de dados, observatórios"
+  }
+],
+"meus_outros_aprendizados_e_interesses": [
+  {
+    "interesse_evento_curso": "Curso online de Javascript",
+    "instituicao": "Udemy",
+    "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+  },
+  {
+    "interesse_evento_curso": "Curso de HTML e CSS",
+    "instituicao": "Udemy",
+    "resumo_conhecimentos_interesses": "Entendimento sobre a sintese de HTML e CSS"
+  },
+  {
+    "interesse_evento_curso": "projeto Data Science do zero com Python, R e JavaScript",
+    "instituicao": "QODA",
+    "resumo_conhecimentos_interesses": "Entendimento sobre data science, Python, R e JS"
+  },
+  {
+    "interesse_evento_curso": "INNOVATION CAMP",
+    "instituicao": "JA Pernambuco",
+    "resumo_conhecimentos_interesses": "Entendimento sobre startups " 
+  }
+],
+"no_que_me_destaco": [
+  {
+    "habilidade_ferramenta": "HTML",
+    "pontuacao": 9
+  },
+  {
+    "habilidade_ferramenta": "CSS",
+    "pontuacao": 8
+  },
+  {
+    "habilidade_ferramenta": "JAVASCRIPT",
+    "pontuacao": 6
+  },
+  {
+    "habilidade_ferramenta": "NODE",
+    "pontuacao": 6
+  },
+  {
+    "habilidade_ferramenta": "GIT/GITHUB",
+    "pontuacao": 7
+  },
+  {
+    "habilidade_ferramenta": "BOOTSTRAP",
+    "pontuacao": 9
+  },
+  {
+    "habilidade_ferramenta": "PYTHON",
+    "pontuacao": 7
+  },
+  {
+    "habilidade_ferramenta": "C++",
+    "pontuacao": 7
+  }
+]
+}
